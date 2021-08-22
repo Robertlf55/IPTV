@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,ACV Plus
-#EXTGRP:unsorted
-http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105ad02/playlist.m3u8
 #EXTINF:0,ADN Gold
 #EXTGRP:unsorted
 http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/chunks.m3u8
