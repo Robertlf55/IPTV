@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:0,ACV Plus
 #EXTGRP:unsorted
 http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105ad02/playlist.m3u8
@@ -42,12 +41,6 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 #EXTINF:0,KITE Victers (Kerala) (720p)
 #EXTGRP:unsorted
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/playlist.m3u8
-#EXTINF:0,KITE Victers (Kerala) (480p)
-#EXTGRP:unsorted
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/playlist.m3u8
-#EXTINF:0,KITE Victers (Kerala) (240p)
-#EXTGRP:unsorted
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv3/playlist.m3u8
 #EXTINF:0,M4TV Malayalam (1080p)
 #EXTGRP:unsorted
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
@@ -75,27 +68,15 @@ http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd
 #EXTINF:0,Safari TV (480p)
 #EXTGRP:unsorted
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live2/playlist.m3u8
-#EXTINF:0,Shekinah TV
-#EXTGRP:unsorted
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg/live
 #EXTINF:0,UBL HD (1080p)
 #EXTGRP:unsorted
 https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 #EXTINF:0,Zee Keralam HD (720p)
 #EXTGRP:unsorted
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:0,Zee Keralam HD
-#EXTGRP:unsorted
-https://y5w8j4a9.ssl.hwcdn.net/zkeralamhd/index.m3u8
 #EXTINF:0,Surya TV (720p)
 #EXTGRP:unsorted
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
-#EXTINF:0,Surya TV (540p)
-#EXTGRP:unsorted
-https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
-#EXTINF:0,ACV News
-#EXTGRP:News
-https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:0,Asianet News (576p)
 #EXTGRP:News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
@@ -117,18 +98,12 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:0,Twenty Four News (576p)
 #EXTGRP:News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:0,ACV
-#EXTGRP:Entertainment
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:0,Amrita TV (576p)
 #EXTGRP:Entertainment
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:0,Kappa TV (576p)
 #EXTGRP:Entertainment
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:0,ACV Utsav
-#EXTGRP:Entertainment
-https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
 #EXTINF:0,DD Malayalam (576p)
 #EXTGRP:Entertainment
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
