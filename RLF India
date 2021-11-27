@@ -1,561 +1,1080 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix (720p)
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures (576p)
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD (720p)
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/P5EXpPy.jpg" group-title="Music",7S Music (576p)
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="ANEWSdonsTVBhangraFlava.in" tvg-name="A NEWSDONs TV- SWAG SADDA VAKRAA" tvg-country="IN" tvg-language="Punjabi" tvg-logo="" group-title="Music",A NEWSDONs TV- SWAG SADDA VAKRAA (720p)
-http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/x1Y2P21.png" group-title="News",Aaj Tak (576p)
-https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.in" tvg-name="Aathavan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment",Aathavan TV (720p)
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="News",ABP Ananda (720p)
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",ABP Asmita (324p)
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",ABP Asmita (720p)
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1 tvg-id="ABPHindi.in" tvg-name="ABP Hindi" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP Hindi (324p)
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1 tvg-id="ABPHindi.in" tvg-name="ABP Hindi" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP Hindi (720p)
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",ABP Majha (720p)
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 tvg-id="ACV.in" tvg-name="ACV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/FNBkLUA.jpg" group-title="",ACV
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ACVJukebox.in" tvg-name="ACV Jukebox" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tYPn1lW.png" group-title="Music",ACV JukeBox (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
-#EXTINF:-1 tvg-id="ACVNews.in" tvg-name="ACV News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/fP0g1np.jpg" group-title="News",ACV News (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/acvnews_3e85eb4c12bd2110d3f495676205d50a/playlist.m3u8
-#EXTINF:-1 tvg-id="ACVPlus.in" tvg-name="ACV Plus" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/DjtPQeg.jpg" group-title="",ACV Plus (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105ad02/playlist.m3u8
-#EXTINF:-1 tvg-id="ACVUtsav.in" tvg-name="ACV Utsav" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LLN585Y.png" group-title="",ACV Utsav (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
-#EXTINF:-1 tvg-id="ADNGold.in" tvg-name="ADN Gold" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="",ADN Gold (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
-#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-name="Akaram Kidz" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Kids",Akaram Kidz (460p) [Not 24/7]
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="News",AKD Calcutta News (540p)
-https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xxWaGyn.jpg" group-title="Entertainment",Amrita TV (576p)
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 tvg-id="Anjan.in" tvg-name="Anjan" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Anjan (720p)
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjab.in" tvg-name="Apna Punjab" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Apna Punjab (720p)
-http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArtistAloud.in" tvg-name="Artist Aloud" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Music",Artist Aloud (1080p)
-https://live.hungama.com/linear/artist-aloud/playlist.m3u8
-#EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-name="Ashrafi Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Ashrafi Channel [Not 24/7]
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (576p)
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-name="Asianet News Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla (360p)
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada (360p)
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Assam Talks (240p)
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.in" tvg-name="ATN Bangla" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",ATN Bangla (1080p)
-http://103.81.104.118/hls/stream17.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Lifestyle",Ayush TV (720p)
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",B4U Kadak (576p)
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia (720p)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-name="Bloomberg TV Asia Live Event" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="Bollywood.in" tvg-name="Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bollywood (480p)
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.in" tvg-name="Bollywood Classic" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Classic",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BollyWoodHD.in" tvg-name="BollyWood HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BollyWood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="",Boogle Bollywood (400p)
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="CaptainTV.in" tvg-name="Captain TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Captain TV (576p)
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHindi.us" tvg-name="Cartoon Network Hindi" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network Hindi (576p)
-http://103.153.39.34:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHindi.us" tvg-name="Cartoon Network Hindi" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network Hindi (432p)
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel.in" tvg-name="Channel" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="",Channel (720p) [V]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Channel Divya (360p)
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelWin.in" tvg-name="Channel Win" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Channel Win (360p)
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelY.in" tvg-name="Channel Y" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Channel Y (720p) [Not 24/7]
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="CNBC Awaaz" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Business",CNBC Awaaz (504p)
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-name="CNBC Bajar" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",CNBC Bajar
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18 (504p)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.us" tvg-name="CNBC TV18" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18 (504p)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Colors Bangla (720p)
-https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg" group-title="Entertainment",Darshana TV (576p)
-https://streaming37.worldbbtv.com/hls/darshana.m3u8
-#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/9HfMVKs.jpg" group-title="Entertainment",DD Malayalam (576p)
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",DD National (576p)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",DD National (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-country="IN" tvg-language="Punjabi" tvg-logo="" group-title="News",DD Punjabi (576p)
-https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="DesiBeatsHD.in" tvg-name="Desi Beats HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Desi Beats HD (720p)
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Desi Channel (400p)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DesiPlus.in" tvg-name="Desi Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Desi Plus (720p)
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DilSe.in" tvg-name="Dil Se" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Music",Dil Se (1080p)
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-id="DishaTV.in" tvg-name="Disha TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Disha TV (360p)
-http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBayTV.in" tvg-name="DocuBay TV" tvg-country="IN" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png" group-title="Entertainment",DocuBay TV (1080p)
-https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="DreamzTV.in" tvg-name="Dreamz TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yXHmKtT.png" group-title="Entertainment",Dreamz TV (768p)
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="EETTV.in" tvg-name="EET TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (720p)
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="Business",ET Now (720p)
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 tvg-id="ETVChattisgarh.in" tvg-name="ETV Chattisgarh" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",ETV Chattisgarh
-https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="ETVUttarakhand.in" tvg-name="ETV Uttarakhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",ETV Uttarakhand
-https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="FASTWAYNEWS.in" tvg-name="FASTWAY NEWS" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Sports",FASTWAY NEWS (720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmeraa.in" tvg-name="Filmeraa" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Filmeraa (720p)
-https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png" group-title="Entertainment",Flowers TV (576p)
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="GabruuTV.in" tvg-name="Gabruu TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-id="GaundaPunjabTV.in" tvg-name="Gaunda Punjab TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="",Gaunda Punjab TV (720p)
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GDNSLudhiana.in" tvg-name="GDNS Ludhiana" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",GDNS Ludhiana (1080p)
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 tvg-id="GSTV.in" tvg-name="GSTV" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/zCIK5Ze.png" group-title="",GSTV (720p)
-https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
-#EXTINF:-1 tvg-id="GustoTV.us" tvg-name="Gusto TV" tvg-country="IN" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c5c47f3662f6b3c476fc03e/colorLogoPNG.png" group-title="Cooking",Gusto TV (720p)
-https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HiruTV.in" tvg-name="Hiru TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="",Hiru TV (360p) [Not 24/7]
-http://cdncities.com/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="HulchulTV.in" tvg-name="Hulchul TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Hulchul TV (720p)
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",India News (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="",India TV (480p)
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/Jw0M6Kp.jpg" group-title="Entertainment",Jaihind TV (576p)
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jan TV (360p)
-http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LWUpmDm.png" group-title="News",Janam TV (720p)
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="JanataaTV.in" tvg-name="Janataa TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Janataa TV [Not 24/7]
-http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
-#EXTINF:-1 tvg-id="JantaTV.in" tvg-name="Janta TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Janta TV (1080p)
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/PYs1W1Y.png" group-title="",Jeevan TV (576p)
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 tvg-id="JhanjarMusic.in" tvg-name="Jhanjar Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music [Not 24/7]
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-id="JonackTV.in" tvg-name="Jonack TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jonack TV (360p)
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="KadakHits.in" tvg-name="Kadak Hits" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Music",Kadak Hits (1080p)
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Entertainment",Kairali Arabia (576p)
-https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
-#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/hXsVrIh.jpg" group-title="News",Kairali News (576p)
-http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/8Di4h6t.png" group-title="Entertainment",Kairali TV (576p)
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/Z626hKz.jpg" group-title="Entertainment",Kairali We (576p)
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 tvg-id="Kalaignar.in" tvg-name="Kalaignar" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="",Kalaignar (576p)
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="",Kalaignar Murasu (576p)
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarSeithikal.in" tvg-name="Kalaignar Seithikal" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="",Kalaignar Seithikal (576p)
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarSirippoli.in" tvg-name="Kalaignar Sirippoli" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="",Kalaignar Sirippoli (576p)
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Kalinga TV (864p)
-https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",Kanak News (720p)
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KannurOne.in" tvg-name="Kannur One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/hytRL90.png" group-title="",Kannur One (1024p)
-https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KannurVision.in" tvg-name="Kannur Vision" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/Zo6TFvK.png" group-title="",Kannur Vision (360p)
-https://stream.ufworldind.in/live/kvision/playlist.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/MkfPo1V.jpg" group-title="Lifestyle",Kappa TV (576p)
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="Entertainment",Kaumudy TV (360p)
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV (720p)
-http://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="KCV.in" tvg-name="KCV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/9YD8u4H.png" group-title="Entertainment",KCV (720p)
-http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-name="Khabrain Abhi Tak" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Khabrain Abhi Tak (480p)
-https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="KITEVicters.in" tvg-name="KITE Victers" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/RvZxSkx.png" group-title="Education",KITE Victers (Kerala) (720p)
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LifePunjabi.in" tvg-name="Life Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Life Punjabi (720p)
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="LifeTV.in" tvg-name="Life TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Life TV (480p)
-http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Maha Movie (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in" tvg-name="Malabar News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="News",Malabar News (576p)
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Malaimurasu.in" tvg-name="Malaimurasu" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/uFiHtQX.png" group-title="News",Malaimurasu (480p) [Not 24/7]
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mangalam.in" tvg-name="Mangalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/V5nQl9m.png" group-title="News",Mangalam (576p)
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/QWHbIYt.png" group-title="News",Manorama News (576p)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Manoranjan Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in" tvg-name="Marutam TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Marutam TV (720p)
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Mastiii (576p)
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xlGIEnZ.png" group-title="News",Mathrubhumi News (576p)
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xCHQrH0.png" group-title="Entertainment",Mazhavil Manorama (1080p)
-http://14.199.164.20:4001/play/a0p9/index.m3u8
-#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One (576p)
-http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 tvg-id="MH1Music.in" tvg-name="MH1 Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",MH1 Music (360p)
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="MH1Prime.in" tvg-name="MH1 Prime" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",MH1 Prime (360p)
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" tvg-country="IN" tvg-language="English" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",Mirror Now (576p)
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/FAytBoW.png" group-title="",MK Six (576p)
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-id="MKTunes.in" tvg-name="MK Tunes" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/m8DPQd6.png" group-title="",MK Tunes (576p)
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 tvg-id="MKTV.in" tvg-name="MK TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UxxbaR3.png" group-title="Entertainment",MK TV (576p)
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India (360p)
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 tvg-id="Namdhari.in" tvg-name="Namdhari" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Namdhari (404p)
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="NandighoshaTv.in" tvg-name="Nandighosha Tv" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Nandighosha Tv (720p)
-https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NaxtraNews.in" tvg-name="Naxtra News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Naxtra News (720p)
-http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-#EXTINF:-1 tvg-id="Nazrana.in" tvg-name="Nazrana" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Music",Nazrana (1080p)
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="NDTV 24X7" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",NDTV India (480p)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="Business",NDTV Profit
-https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-country="IN" tvg-language="" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Business",NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-country="IN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business",NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="NeeCinema.in" tvg-name="Nee Cinema" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/vYme2fs.png" group-title="Movies",Nee Cinema (1080p)
-https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NethraTV.in" tvg-name="Nethra TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" group-title="News",Nethra TV (480p)
-https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:-1 tvg-id="News18Assam.in" tvg-name="News 18 Assam" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Assam (360p)
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Bengali.in" tvg-name="News 18 Bengali" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Bengali (360p)
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Chhattisgarh.in" tvg-name="News 18 Chhattisgarh" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Chhattisgarh (360p)
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Gujarati.in" tvg-name="News 18 Gujarati" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Gujarati (360p)
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Hindi.in" tvg-name="News 18 Hindi" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Hindi (360p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Jharkhand.in" tvg-name="News 18 Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Jharkhand (360p)
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Lokmat.in" tvg-name="News 18 Lokmat" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Lokmat (504p)
-https://iptv-all.lanesh4d0w.codes/india/news18-lokmat.m3u8
-#EXTINF:-1 tvg-id="News18Malayalam.in" tvg-name="News 18 Malayalam" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/D9lMLmX.png" group-title="News",News 18 Malayalam (360p)
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News 18 Odia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Odia (360p)
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Punjab.in" tvg-name="News 18 Punjab" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Punjab (360p)
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Rajasthan.in" tvg-name="News 18 Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Rajasthan (360p)
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Tamil.in" tvg-name="News 18 Tamil" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Tamil (360p)
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Urdu.in" tvg-name="News 18 Urdu" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Urdu (360p)
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Uttarakhand.in" tvg-name="News 18 Uttarakhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Uttarakhand (360p)
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 24 (480p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 24 (360p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="News18Assam.in" tvg-name="News18 Assam" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 Assam (504p)
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News18 Bangla (360p)
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 India (504p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Odisha TV (480p)
-https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTv.in" tvg-name="One TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="Entertainment",One TV
-http://137.59.86.218:1935/live/onetv/playlist.m3u8
-#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/FeLT0mK.jpg" group-title="Entertainment",Polimer TV (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
-#EXTINF:-1 tvg-id="PopPataka.in" tvg-name="Pop Pataka" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Music",Pop Pataka (1080p)
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:-1 tvg-id="PopularScience.in" tvg-name="Popular Science" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="Science",Popular Science (720p)
-https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
-#EXTINF:-1 tvg-id="PramayaNews7.in" tvg-name="Pramaya News7" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",Pramaya News7 (576p)
-https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Pratidin Time (360p)
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimeCanadaTV.in" tvg-name="Prime Canada TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Prime Canada TV (720p)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="",Pulari TV (720p)
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="PUNJABTV.in" tvg-name="PUNJAB TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",PUNJAB TV (720p)
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabad.in" tvg-name="Punjabi Zindabad" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Punjabi Zindabad (360p)
-http://stream.pztv.online/pztv/playlist.m3u8
-#EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-name="Puthuyugam TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Puthuyugam TV (576p)
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 tvg-id="RPlusNews.in" tvg-name="R Plus News" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",R Plus News (360p)
-https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-name="Raj Digital Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Raj Digital Plus (404p)
-http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
-#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="News",Real News Kerala (1080p)
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RealTV.in" tvg-name="Real TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://expressott.in/uploads/tv_image/real-tv.jpg" group-title="Music",Real TV (1080p)
-http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="RelaxTV" tvg-name="Relax TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://expressott.in/uploads/tv_image/relax-tv.png" group-title="Music",Relax TV (720p)
-http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/a80vdrp.jpg" group-title="News",Reporter TV (576p)
-http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-#EXTINF:-1 tvg-id="RepublicBharatin.in" tvg-name="RepublicBharat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="",Republic Bharat (360p)
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rosebowl.in" tvg-name="Rosebowl" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LBQSALM.png" group-title="",Rosebowl (404p)
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
-#EXTINF:-1 tvg-id="SadaTV.in" tvg-name="Sada TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sada TV (720p)
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna (360p)
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 tvg-id="SadhnaPlus.in" tvg-name="Sadhna Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna Plus (360p)
-http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-#EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LOepeP3.jpg" group-title="",Safari TV (480p)
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Sanskaar.in" tvg-name="Sanskaar" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sanskaar
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-#EXTINF:-1 tvg-id="SanthoraShortFlim.in" tvg-name="Santhora Short Flim" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Movies",Santhora Short Flim (720p)
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="SanthoraTV.in" tvg-name="Santhora TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="",Santhora TV (720p)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="SardariTV.in" tvg-name="Sardari TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6Q844bs.jpg" group-title="",Sardari TV (1080p)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Satsang.in" tvg-name="Satsang" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Satsang
-https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
-#EXTINF:-1 tvg-id="ServeurTV.in" tvg-name="Serveur TV" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",Serveur TV (720p)
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ShirdiLive.in" tvg-name="Shirdi Live" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Shirdi Live (720p)
-https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-#EXTINF:-1 tvg-id="Shraddha.in" tvg-name="Shraddha" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Shraddha (360p)
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-name="Shubhsandesh" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh (576p)
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarthHD.in" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/cmRNiA3.png" group-title="",Sony BBC Earth HD (1080p)
-http://103.81.104.118/hls/stream5.m3u8
-#EXTINF:-1 tvg-id="SonyMAX2.in" tvg-name="Sony MAX 2" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony MAX 2
-http://208.115.215.42/Sony_Max_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMAXHD.in" tvg-name="Sony MAX HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony MAX HD
-http://208.115.215.42/Sony_Max_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyPixHD.in" tvg-name="Sony Pix HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony Pix HD (1080p)
-http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="SonySabHD.in" tvg-name="Sony Sab HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony Sab HD
-http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony Six HD (1080p)
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-id="SonyWAH.in" tvg-name="Sony WAH" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony WAH (404p)
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="Sony YAY" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony YAY (404p)
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:-1 tvg-id="SriSankara.in" tvg-name="Sri Sankara" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Religious",Sri Sankara (360p)
-https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
-#EXTINF:-1 tvg-id="StarCinema.in" tvg-name="Star Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Cinema (576p)
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1 tvg-id="StarFamily.in" tvg-name="Star Family" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Family",Star Family (576p)
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="Star Gold HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Star Gold HD (1080p)
-http://103.81.104.118/hls/stream19.m3u8
-#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Star Plus HD
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/TO4a3YF.png" group-title="",Star Vijay (576p)
-http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" group-title="Music",Steelbird Music (720p) [Not 24/7]
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name="Sun TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="",Sun TV (720p)
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
-#EXTINF:-1 tvg-id="SuryaMusic.in" tvg-name="Surya Music" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/jsC8FC7.png" group-title="Music",Surya Music (480p)
-https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in" tvg-name="Surya TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ENrptYg.png" group-title="Entertainment",Surya TV (540p)
-https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in" tvg-name="Surya TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ENrptYg.png" group-title="Entertainment",Surya TV (720p)
-https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
-#EXTINF:-1 tvg-id="SuvarnaNews247.in" tvg-name="Suvarna News 24/7" tvg-country="IN" tvg-language="Kannada" tvg-logo="" group-title="News",Suvarna News 24/7 (360p)
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="SwarajExpress.in" tvg-name="Swaraj Express" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Swaraj Express (576p)
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1 tvg-id="TamilVisionInternational.in" tvg-name="Tamil Vision International" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="",Tamil Vision International (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionInternational.in" tvg-name="Tamil Vision International" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="",Tamil Vision International (720p)
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 tvg-id="TBOClassic.in" tvg-name="TBO Classic" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO Classic Telugu (720p)
-https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71QprgRT4rL.png" group-title="News",Thanthi TV (720p)
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill (480p) [Geo-blocked]
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="TimeTV.in" tvg-name="Time TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="News",Time TV
-https://cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8
-#EXTINF:-1 tvg-id="TimeVisionNews.in" tvg-name="Time Vision News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="News",Time Vision News (720p)
-http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News",Times Now (480p)
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="Travel XP" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Travel",Travel XP (720p)
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9News.in" tvg-name="TV9 News" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News (720p)
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-name="Twenty Four News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (576p)
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1 tvg-id="UBLHD.in" tvg-name="UBL HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/pt7gl1T.png" group-title="",UBL HD (1080p)
-https://cdn.logicwebs.in/hls/ublhdkey.m3u8
-#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Vasanth TV
-http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?bgsecuredir=1&e=0&h=a9be0836bc39f96d0a9a958a659dfc1d
-#EXTINF:-1 tvg-id="VathanamTV.in" tvg-name="Vathanam TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="",Vathanam TV
-http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-#EXTINF:-1 tvg-id="Velicham.in" tvg-name="Velicham" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Entertainment",Velicham (360p) [Not 24/7]
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="XploreChannel.in" tvg-name="Xplore Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Xplore Channel (720p)
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZLivingUSA.us" tvg-name="Z Living USA" tvg-country="US;IN" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" group-title="",Z Living USA (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 tvg-id="Zee24.in" tvg-name="Zee 24" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee 24 (576p)
-https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Action (576p)
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Anmol Cinema (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bangla Cinema (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bihar Jharkhand (576p)
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop (360p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cafe (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema Middle East (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema Middle East (720p)
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema UK (576p)
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK (576p)
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUSA.in" tvg-name="Zee Cinema USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema USA (576p)
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Classic (576p)
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralamHD.in" tvg-name="Zee Keralam HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mM0KQj7.png" group-title="",Zee Keralam HD (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralamHD.in" tvg-name="Zee Keralam HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mM0KQj7.png" group-title="",Zee Keralam HD
-https://y5w8j4a9.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="Marathi" tvg-logo="" group-title="",Zee Marathi USA (576p)
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Marathi USA (576p)
-https://y5w8j4a9.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Music (576p)
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMPCG.in" tvg-name="Zee News MPCG" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee News MPCG (576p)
-https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Punjabi (576p)
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Rajasthan (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Smile USA (576p)
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Talkies (720p)
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee TV (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTVAPAC.in" tvg-name="Zee TV APAC" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV APAC (576p)
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVCanada.in" tvg-name="Zee TV Canada" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Canada (720p)
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVMiddleEast.in" tvg-name="Zee TV Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Middle East (576p)
-https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVRussia.in" tvg-name="Zee TV Russia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Russia (720p)
-https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUSA.in" tvg-name="Zee TV USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA (576p)
-https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUSA.in" tvg-name="Zee TV USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA
-https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee World (576p)
-https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-name="Zee5 Originals" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Originals (1080p)
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Romance (1080p)
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zing (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zoom (1080p)
-http://103.81.104.118/hls/stream8.m3u8
-#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Kasthuri-TV-logo.jpg" group-title="Entertainment",ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p)
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="News",ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p)
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="Dighvijay News 24x7" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/wdE7gxU.png" group-title="News",ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay (240p)
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News 18 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://static.kannada.news18.com/kannada/uploads/2020/03/Kannada1.png" group-title="News",ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18 (360p)
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="Music",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p)
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------|India|------" tvg-logo="" group-title="India",------|India|------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1965
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="IN002:9X Jalwa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="India",IN002:9X Jalwa
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1963
+#EXTINF:-1 tvg-id="" tvg-name="IN004:9XM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0049XM.png" group-title="India",IN004:9XM
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1961
+#EXTINF:-1 tvg-id="" tvg-name="IN005:AAJ Tak News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN005AAJTakNews.png" group-title="India",IN005:AAJ Tak News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1960
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="IN006:Aastha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN006Aastha.png" group-title="India",IN006:Aastha
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1959
+#EXTINF:-1 tvg-id="" tvg-name="IN008:And Pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="India",IN008:And Pictures
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1957
+#EXTINF:-1 tvg-id="" tvg-name="IN009:And TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="India",IN009:And TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1956
+#EXTINF:-1 tvg-id="" tvg-name="IN010:DD News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="India",IN010:DD News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1955
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="IN011:B4U Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="India",IN011:B4U Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1954
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="IN012:B4U Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="India",IN012:B4U Music
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1953
+#EXTINF:-1 tvg-id="" tvg-name="IN014:ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="India",IN014:ZOOM TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1951
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="IN017:Colors Gujarati" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN017ColorsGujarati.png" group-title="India",IN017:Colors Gujarati
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1948
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="IN018:Colors Marathi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN018ColorsMarathi.png" group-title="India",IN018:Colors Marathi
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1947
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="IN019:Colors HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN019ColorsHD.png" group-title="India",IN019:Colors HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1946
+#EXTINF:-1 tvg-id="" tvg-name="IN020:Colors UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN020ColorsUK.png" group-title="India",IN020:Colors UK
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1945
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="IN021:Jaya Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN021JayaMovies.png" group-title="India",IN021:Jaya Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1944
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="IN022:Jalsha Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN022JalshaMovies.png" group-title="India",IN022:Jalsha Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1943
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="IN023:Food Food" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="India",IN023:Food Food
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1942
+#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="IN024:Gemini Comedy Telugu" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="India",IN024:Gemini Comedy Telugu
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1941
+#EXTINF:-1 tvg-id="" tvg-name="IN025:News X" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="India",IN025:News X
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1940
+#EXTINF:-1 tvg-id="" tvg-name="IN026:Gemini Telugu" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="India",IN026:Gemini Telugu
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1939
+#EXTINF:-1 tvg-id="" tvg-name="IN027:Zee TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN027ZeeTV.png" group-title="India",IN027:Zee TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1938
+#EXTINF:-1 tvg-id="" tvg-name="IN031:Living FoodZ" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN031LivingFoodZ.png" group-title="India",IN031:Living FoodZ
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1934
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="IN032:Sony PIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN032SonyPIX.png" group-title="India",IN032:Sony PIX
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1933
+#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="IN034:Lakshya TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="India",IN034:Lakshya TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1931
+#EXTINF:-1 tvg-id="" tvg-name="IN035:HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN035HBO.png" group-title="India",IN035:HBO
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1930
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="IN036:Music India" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="India",IN036:Music India
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1929
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="IN037:NDTV 24x7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN037NDTV24x7.png" group-title="India",IN037:NDTV 24x7
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1928
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="IN038:NDTV India" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN038NDTVIndia.png" group-title="India",IN038:NDTV India
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1927
+#EXTINF:-1 tvg-id="" tvg-name="IN039:Zee TV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN039ZeeTV.png" group-title="India",IN039:Zee TV UK
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1926
+#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="IN040:Zee Kannada" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN040ZeeKannada.png" group-title="India",IN040:Zee Kannada
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1925
+#EXTINF:-1 tvg-id="" tvg-name="IN049:Sadhna TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN049SeithigalTamil.png" group-title="India",IN049:Sadhna TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1916
+#EXTINF:-1 tvg-id="" tvg-name="IN050:Asian TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN050AsianTV.png" group-title="India",IN050:Asian TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1915
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="IN053:India TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN053IndiaTV.png" group-title="India",IN053:India TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1912
+#EXTINF:-1 tvg-id="SonyESPN.in" tvg-name="IN054:Sony ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN054SonyESPN.png" group-title="India",IN054:Sony ESPN
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1911
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="IN055:Sony Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN055SonyMax.png" group-title="India",IN055:Sony Max
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1910
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="IN056:Sony Mix" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN056SonyMix.png" group-title="India",IN056:Sony Mix
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1909
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="IN057:Sony Set Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN057SonySetMax.png" group-title="India",IN057:Sony Set Max
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1908
+#EXTINF:-1 tvg-id="" tvg-name="IN059:Sony Sab" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN059SonySabUK.png" group-title="India",IN059:Sony Sab
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1906
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="IN060:Sony Six" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN060SonySix.png" group-title="India",IN060:Sony Six
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1905
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="IN061:Sony Ten 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN061SonyTen2.png" group-title="India",IN061:Sony Ten 2
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1904
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="IN062:Sony Ten 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN062SonyTen1.png" group-title="India",IN062:Sony Ten 1
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1903
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN063:Sony Ten 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN063SonyTen3.png" group-title="India",IN063:Sony Ten 3
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1902
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="IN065:Romedy Now" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN065SMBCTV.png" group-title="India",IN065:Romedy Now
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1900
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="IN066:Sony YAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN066SonyYAY.png" group-title="India",IN066:Sony YAY
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1899
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="IN067:TentKotta" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN067Sudarshan.png" group-title="India",IN067:TentKotta
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1898
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="IN068:Star Gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN068StarGold.png" group-title="India",IN068:Star Gold
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1897
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="India",IN069:Star Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1896
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="IN070:Star Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN070StarPlus.png" group-title="India",IN070:Star Plus
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1895
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="IN071:Star Plus UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN071StarPlusUK.png" group-title="India",IN071:Star Plus UK
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1894
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="IN072:Star Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN072StarSports1.png" group-title="India",IN072:Star Sports 1
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1893
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IN073:Star Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN073StarSports2.png" group-title="India",IN073:Star Sports 2
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1892
+#EXTINF:-1 tvg-id="" tvg-name="IN075:Tara Musik" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN075TaraMusik.png" group-title="India",IN075:Tara Musik
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1890
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="IN076:Times Now" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN076TimesNow.png" group-title="India",IN076:Times Now
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1889
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="IN077:ABP News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN077TravelXP.png" group-title="India",IN077:ABP News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1888
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IN078:UTV Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN078UTVMovies.png" group-title="India",IN078:UTV Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1887
+#EXTINF:-1 tvg-id="" tvg-name="IN079:WIllow Cricket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN079WIllowCricket.png" group-title="India",IN079:WIllow Cricket
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1886
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="IN080:Zee Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN080ZeeAction.png" group-title="India",IN080:Zee Action
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1885
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="IN081:Zee Anmol Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN081ZeeAnmolCinema.png" group-title="India",IN081:Zee Anmol Cinema
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1884
+#EXTINF:-1 tvg-id="ZETCBollywood.in" tvg-name="IN082:Zee Bollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN082ZeeBollywood.png" group-title="India",IN082:Zee Bollywood
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1883
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="IN083:Zee Business" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN083ZeeBusiness.png" group-title="India",IN083:Zee Business
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1882
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="IN084:Zee Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN084ZeeClassic.png" group-title="India",IN084:Zee Classic
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1881
+#EXTINF:-1 tvg-id="" tvg-name="IN085:Zee Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN085ZeeCinema.png" group-title="India",IN085:Zee Cinema
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1880
+#EXTINF:-1 tvg-id="" tvg-name="IN086:Zee ETC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN086ZeeETC.png" group-title="India",IN086:Zee ETC
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1879
+#EXTINF:-1 tvg-id="" tvg-name="IN087:Zee Living" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN087ZeeLiving.png" group-title="India",IN087:Zee Living
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1878
+#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="IN088:Zee Marathi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN088ZeeMarathi.png" group-title="India",IN088:Zee Marathi
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1877
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="IN089:Zee News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN089ZeeNews.png" group-title="India",IN089:Zee News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1876
+#EXTINF:-1 tvg-id="ZeeStudio.in" tvg-name="IN091:Sanskar TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN091ZeeStudio.png" group-title="India",IN091:Sanskar TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1874
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="IN092:Zee Talkies Marathi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN092ZeeTalkiesMarathi.png" group-title="India",IN092:Zee Talkies Marathi
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1873
+#EXTINF:-1 tvg-id="" tvg-name="IN093:Star World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN093StarWorldHD.png" group-title="India",IN093:Star World HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55360
+#EXTINF:-1 tvg-id="" tvg-name="IN094:9x Jhakaas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0949xJhakaas.png" group-title="India",IN094:9x Jhakaas
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55359
+#EXTINF:-1 tvg-id="" tvg-name="IN095:9X Tashan" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0959XTashan.png" group-title="India",IN095:9X Tashan
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55358
+#EXTINF:-1 tvg-id="" tvg-name="IN096:Zee Rajasthan" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN096ZeeRajasthan.png" group-title="India",IN096:Zee Rajasthan
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55357
+#EXTINF:-1 tvg-id="" tvg-name="IN097:Aaj Tak" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN097AajTak.png" group-title="India",IN097:Aaj Tak
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55356
+#EXTINF:-1 tvg-id="" tvg-name="IN098:Zee Salaam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN098ZeeSalaam.png" group-title="India",IN098:Zee Salaam
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55355
+#EXTINF:-1 tvg-id="" tvg-name="IN099:Zing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN099Zing.png" group-title="India",IN099:Zing
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55354
+#EXTINF:-1 tvg-id="" tvg-name="IN101:Zee Cafe HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN101VissaTV.png" group-title="India",IN101:Zee Cafe HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55352
+#EXTINF:-1 tvg-id="" tvg-name="IN107:Bollywood Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN107AdithyaTV.png" group-title="India",IN107:Bollywood Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55346
+#EXTINF:-1 tvg-id="" tvg-name="IN108:Rishtey Cineplex (UK)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN108DDPUNJABI.png" group-title="India",IN108:Rishtey Cineplex (UK)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55345
+#EXTINF:-1 tvg-id="" tvg-name="IN113:Star Sports Select 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN113StarSportsSelect1HD.png" group-title="India",IN113:Star Sports Select 1 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55340
+#EXTINF:-1 tvg-id="" tvg-name="IN115:Star Sports Select 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN115StarSportsSelect2HD.png" group-title="India",IN115:Star Sports Select 2 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55338
+#EXTINF:-1 tvg-id="" tvg-name="IN122:Asia Net" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN122AsiaNet.png" group-title="India",IN122:Asia Net
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55331
+#EXTINF:-1 tvg-id="" tvg-name="IN125:Zee Bangla Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN125ZeeBanglaCinema.png" group-title="India",IN125:Zee Bangla Cinema
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55328
+#EXTINF:-1 tvg-id="" tvg-name="IN126:POP MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN126AXNHD.png" group-title="India",IN126:POP MUSIC
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55327
+#EXTINF:-1 tvg-id="" tvg-name="IN127:Takbeer TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN127SuryaHD.png" group-title="India",IN127:Takbeer TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55326
+#EXTINF:-1 tvg-id="" tvg-name="IN128:Republic Bharat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN128ZeeAnmol.png" group-title="India",IN128:Republic Bharat
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55325
+#EXTINF:-1 tvg-id="" tvg-name="IN129:Zee Telugu" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN129ZeeTelugu.png" group-title="India",IN129:Zee Telugu
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55324
+#EXTINF:-1 tvg-id="" tvg-name="IN133:Star world premier" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN133BhojpuriCinema.png" group-title="India",IN133:Star world premier
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55320
+#EXTINF:-1 tvg-id="" tvg-name="IN134:ZEE BANGLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN134ZEEBANGLA.png" group-title="India",IN134:ZEE BANGLA
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55319
+#EXTINF:-1 tvg-id="" tvg-name="IN142:Republic TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN142ChannelNewsAsiaInternational.png" group-title="India",IN142:Republic TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55311
+#EXTINF:-1 tvg-id="" tvg-name="IN144:News18 UP Uttarakhand" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN144WIONTV.png" group-title="India",IN144:News18 UP Uttarakhand
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55309
+#EXTINF:-1 tvg-id="" tvg-name="IN145:Chardikla Time TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN145ChardiklaTimeTV.png" group-title="India",IN145:Chardikla Time TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55308
+#EXTINF:-1 tvg-id="" tvg-name="IN147:NDTV Profit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN147CNHDEnglish.png" group-title="India",IN147:NDTV Profit
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55306
+#EXTINF:-1 tvg-id="" tvg-name="IN148:CNBC Awaaz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148CNBCAwaaz.png" group-title="India",IN148:CNBC Awaaz
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55305
+#EXTINF:-1 tvg-id="" tvg-name="IN150:CNBC Tv 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN150CNBCTv18.png" group-title="India",IN150:CNBC Tv 18
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55303
+#EXTINF:-1 tvg-id="" tvg-name="IN152:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN152CNN.png" group-title="India",IN152:CNN
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55301
+#EXTINF:-1 tvg-id="" tvg-name="IN153:CNN NEWS 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN153CNNNEWS18.png" group-title="India",IN153:CNN NEWS 18
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55300
+#EXTINF:-1 tvg-id="" tvg-name="IN154:Colors Bengali HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN154ColorsBengaliHD.png" group-title="India",IN154:Colors Bengali HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55299
+#EXTINF:-1 tvg-id="" tvg-name="IN155:Colors Infinity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN155ColorsInfinityHD.png" group-title="India",IN155:Colors Infinity HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55298
+#EXTINF:-1 tvg-id="" tvg-name="IN156:Colors Kannada HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN156ColorsKannadaHD.png" group-title="India",IN156:Colors Kannada HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55297
+#EXTINF:-1 tvg-id="" tvg-name="IN157:Raj Musix" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN157RajMusix.png" group-title="India",IN157:Raj Musix
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55296
+#EXTINF:-1 tvg-id="" tvg-name="IN158:NAZRANA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN158ColorsSuper.png" group-title="India",IN158:NAZRANA
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55295
+#EXTINF:-1 tvg-id="" tvg-name="IN161:Kalupur Mandir" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="India",IN161:Kalupur Mandir
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55292
+#EXTINF:-1 tvg-id="" tvg-name="IN162:Sahara One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="India",IN162:Sahara One
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55291
+#EXTINF:-1 tvg-id="" tvg-name="IN164:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="India",IN164:Animal Planet HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55289
+#EXTINF:-1 tvg-id="" tvg-name="IN168:Puthiya Thalimurai" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN168PuthiyaThalimurai.png" group-title="India",IN168:Puthiya Thalimurai
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55285
+#EXTINF:-1 tvg-id="" tvg-name="IN169:DD Rajyasabha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="India",IN169:DD Rajyasabha
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55284
+#EXTINF:-1 tvg-id="" tvg-name="IN172:Peppers TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="India",IN172:Peppers TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55281
+#EXTINF:-1 tvg-id="" tvg-name="IN173:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="India",IN173:Discovery Science
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55280
+#EXTINF:-1 tvg-id="" tvg-name="IN174:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="India",IN174:Discovery Turbo
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55279
+#EXTINF:-1 tvg-id="" tvg-name="IN179:DW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="India",IN179:DW
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55274
+#EXTINF:-1 tvg-id="" tvg-name="IN181:Fastway TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN181E24.png" group-title="India",IN181:Fastway TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55272
+#EXTINF:-1 tvg-id="" tvg-name="IN182:Polimer TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="India",IN182:Polimer TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55271
+#EXTINF:-1 tvg-id="" tvg-name="IN183:Epic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="India",IN183:Epic HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55270
+#EXTINF:-1 tvg-id="" tvg-name="IN184:ET Now" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="India",IN184:ET Now
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55269
+#EXTINF:-1 tvg-id="" tvg-name="IN185:Maha Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="India",IN185:Maha Movies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55268
+#EXTINF:-1 tvg-id="" tvg-name="IN189:Mastiii" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="India",IN189:Mastiii
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55264
+#EXTINF:-1 tvg-id="" tvg-name="IN190:Polimer News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="India",IN190:Polimer News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55263
+#EXTINF:-1 tvg-id="" tvg-name="IN192:JANTA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="India",IN192:JANTA TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55261
+#EXTINF:-1 tvg-id="" tvg-name="IN193:Ten Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN193ETVNewsGujarati.png" group-title="India",IN193:Ten Sports
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55260
+#EXTINF:-1 tvg-id="" tvg-name="IN195:Angel Tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="India",IN195:Angel Tv
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55258
+#EXTINF:-1 tvg-id="" tvg-name="IN196:DD Kisan" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="India",IN196:DD Kisan
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55257
+#EXTINF:-1 tvg-id="" tvg-name="IN197:DD National" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="India",IN197:DD National
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55256
+#EXTINF:-1 tvg-id="" tvg-name="IN198:DD Uttar Pradesh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="India",IN198:DD Uttar Pradesh
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55255
+#EXTINF:-1 tvg-id="" tvg-name="IN199:ETV Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="India",IN199:ETV Cinema
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55254
+#EXTINF:-1 tvg-id="" tvg-name="IN201:Star Jalsha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="India",IN201:Star Jalsha
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55252
+#EXTINF:-1 tvg-id="" tvg-name="IN204:Flower TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN204FlowerTV.png" group-title="India",IN204:Flower TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55249
+#EXTINF:-1 tvg-id="" tvg-name="IN205:France 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN205France24.png" group-title="India",IN205:France 24
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55248
+#EXTINF:-1 tvg-id="" tvg-name="IN206:Big Ganga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN206FYITV18.png" group-title="India",IN206:Big Ganga
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55247
+#EXTINF:-1 tvg-id="" tvg-name="IN207:Vasanth TV (Tamil )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN207GeminiComedy.png" group-title="India",IN207:Vasanth TV (Tamil )
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55246
+#EXTINF:-1 tvg-id="" tvg-name="IN208:Eye Schedule" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN208GABRUUTVHD.png" group-title="India",IN208:Eye Schedule
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55245
+#EXTINF:-1 tvg-id="" tvg-name="IN209:Sanjha Punjab" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN209GeminiMovies.png" group-title="India",IN209:Sanjha Punjab
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55244
+#EXTINF:-1 tvg-id="" tvg-name="IN210:Gemini Movies HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN210GeminiMoviesHD.png" group-title="India",IN210:Gemini Movies HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55243
+#EXTINF:-1 tvg-id="" tvg-name="IN211:Gemini TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN211GeminiTV.png" group-title="India",IN211:Gemini TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55242
+#EXTINF:-1 tvg-id="" tvg-name="IN212:Sadvidya Tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN212ZeeBangla.png" group-title="India",IN212:Sadvidya Tv
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55241
+#EXTINF:-1 tvg-id="" tvg-name="IN213:MTV+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN213GurbaniHealing.png" group-title="India",IN213:MTV+ HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55240
+#EXTINF:-1 tvg-id="" tvg-name="IN220:HULCHUL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN220ChuChuTV.png" group-title="India",IN220:HULCHUL TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55233
+#EXTINF:-1 tvg-id="" tvg-name="IN221:B4u+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN221HNN24x7.png" group-title="India",IN221:B4u+
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55232
+#EXTINF:-1 tvg-id="" tvg-name="IN224:B4u kadak" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN224homeshop18.png" group-title="India",IN224:B4u kadak
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55229
+#EXTINF:-1 tvg-id="" tvg-name="IN225:Sangat TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN225HousefullMovies.png" group-title="India",IN225:Sangat TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55228
+#EXTINF:-1 tvg-id="" tvg-name="IN228:Star Sports 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN228StarSports3HD.png" group-title="India",IN228:Star Sports 3 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55225
+#EXTINF:-1 tvg-id="" tvg-name="IN231:Hindu Dharmam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="India",IN231:Hindu Dharmam
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55222
+#EXTINF:-1 tvg-id="" tvg-name="IN233:STAR Maa HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN233INNewsRajasthan.png" group-title="India",IN233:STAR Maa HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55220
+#EXTINF:-1 tvg-id="" tvg-name="IN234:Dsports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN234INNewsUP.png" group-title="India",IN234:Dsports
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55219
+#EXTINF:-1 tvg-id="" tvg-name="IN235:India Today" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN235INToday.png" group-title="India",IN235:India Today
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55218
+#EXTINF:-1 tvg-id="" tvg-name="IN236:Sanjha TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="India",IN236:Sanjha TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55217
+#EXTINF:-1 tvg-id="" tvg-name="IN237:WION TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN237WIONTV.png" group-title="India",IN237:WION TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55216
+#EXTINF:-1 tvg-id="" tvg-name="IN240:1st India" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="India",IN240:1st India
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55213
+#EXTINF:-1 tvg-id="" tvg-name="IN241:SONY Entertainment HD (UK)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241JMovies.png" group-title="India",IN241:SONY Entertainment HD (UK)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55212
+#EXTINF:-1 tvg-id="" tvg-name="IN244:Janam TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="India",IN244:Janam TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55209
+#EXTINF:-1 tvg-id="" tvg-name="IN245:Jaya Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="India",IN245:Jaya Max
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55208
+#EXTINF:-1 tvg-id="" tvg-name="IN246:Jaya Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN246JayaPlus.png" group-title="India",IN246:Jaya Plus
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55207
+#EXTINF:-1 tvg-id="" tvg-name="IN275:KTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN275KTVHD.png" group-title="India",IN275:KTV HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55178
+#EXTINF:-1 tvg-id="" tvg-name="IN289:Murasu" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN289Murasu.png" group-title="India",IN289:Murasu
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55164
+#EXTINF:-1 tvg-id="" tvg-name="IN290:Manorama News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN290ManoramaNews.png" group-title="India",IN290:Manorama News
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55163
+#EXTINF:-1 tvg-id="" tvg-name="IN294:Mazavali Manorama HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN294MazavaliManoramaHD.png" group-title="India",IN294:Mazavali Manorama HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55159
+#EXTINF:-1 tvg-id="" tvg-name="IN295:privé" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN295MazhavilManorama.png" group-title="India",IN295:privé
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55158
+#EXTINF:-1 tvg-id="" tvg-name="IN296:Willow HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN436SuryaHD.png" group-title="India",IN296:Willow HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55017
+#EXTINF:-1 tvg-id="" tvg-name="IN297:Flix" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="India",IN297:Flix
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/54975
+#EXTINF:-1 tvg-id="" tvg-name="IN:-----|Punjabi|--------------------------------" tvg-logo="" group-title="India",IN:-----|Punjabi|--------------------------------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/72296
+#EXTINF:-1 tvg-id="" tvg-name="IN001:5 AAB (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="India",IN001:5 AAB (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1964
+#EXTINF:-1 tvg-id="" tvg-name="IN003:9x Tashan (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="India",IN003:9x Tashan (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1962
+#EXTINF:-1 tvg-id="" tvg-name="IN007:Akaal (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="India",IN007:Akaal (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1958
+#EXTINF:-1 tvg-id="IndiaNewsPunjab.in" tvg-name="IN015:Pittara TV (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN015ChakdePunjabi.png" group-title="India",IN015:Pittara TV (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1950
+#EXTINF:-1 tvg-id="" tvg-name="IN016:Hamdard TV (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN016HamdardTVPunjabi.png" group-title="India",IN016:Hamdard TV (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1949
+#EXTINF:-1 tvg-id="" tvg-name="IN033:GURBANI TV (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN033MH1MusicPunjabi.png" group-title="India",IN033:GURBANI TV (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1932
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="IN042:PTC Chakde (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN042PTCChakdePunjabi.png" group-title="India",IN042:PTC Chakde (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1923
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="IN043:PTC (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN043PTCPunjabi.png" group-title="India",IN043:PTC (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1922
+#EXTINF:-1 tvg-id="" tvg-name="IN051:Sikh (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN051SikhPunjabi.png" group-title="India",IN051:Sikh (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1914
+#EXTINF:-1 tvg-id="IndiaNewsPunjab.in" tvg-name="IN090:Zee (Punjabi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN090ZeePunjabi.png" group-title="India",IN090:Zee (Punjabi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1875
+#EXTINF:-1 tvg-id="" tvg-name="IN:-----|Hindi|--------------------------------" tvg-logo="" group-title="India",IN:-----|Hindi|--------------------------------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/72297
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="IN058:Sony Sab (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN058SonySabHindi.png" group-title="India",IN058:Sony Sab (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1907
+#EXTINF:-1 tvg-id="" tvg-name="IN064:SONY (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN064SonyHindi.png" group-title="India",IN064:SONY (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1901
+#EXTINF:-1 tvg-id="" tvg-name="IN123:TLC (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN123Tez.png" group-title="India",IN123:TLC (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55330
+#EXTINF:-1 tvg-id="" tvg-name="IN131:Animal Planet (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN131Zee24Taas.png" group-title="India",IN131:Animal Planet (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55322
+#EXTINF:-1 tvg-id="" tvg-name="IN140:Cartoon Network (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN140CartoonNetworkHindi.png" group-title="India",IN140:Cartoon Network (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55313
+#EXTINF:-1 tvg-id="" tvg-name="IN163:ABP NEWS (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="India",IN163:ABP NEWS (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55290
+#EXTINF:-1 tvg-id="" tvg-name="IN191:HIT MUSIC (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="India",IN191:HIT MUSIC (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55262
+#EXTINF:-1 tvg-id="" tvg-name="IN202:Sony Yaha (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN202FaktMarathi.png" group-title="India",IN202:Sony Yaha (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55251
+#EXTINF:-1 tvg-id="" tvg-name="IN226:Star Sports 1 (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN226StarSports1HINDI.png" group-title="India",IN226:Star Sports 1 (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55227
+#EXTINF:-1 tvg-id="" tvg-name="IN229:Nickelodeon (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN229IBN7.png" group-title="India",IN229:Nickelodeon (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55224
+#EXTINF:-1 tvg-id="" tvg-name="IN232:Discovery Channel (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="India",IN232:Discovery Channel (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55221
+#EXTINF:-1 tvg-id="" tvg-name="IN243:Discovery Science (Hindi)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="India",IN243:Discovery Science (Hindi)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55210
+#EXTINF:-1 tvg-id="" tvg-name="IN:-----|Tamil|--------------------------------" tvg-logo="" group-title="India",IN:-----|Tamil|--------------------------------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66706
+#EXTINF:-1 tvg-id="CaptainNews.in" tvg-name="IN013:Captain News (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN013CaptainNewsTamil.png" group-title="India",IN013:Captain News (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1952
+#EXTINF:-1 tvg-id="" tvg-name="IN028:Jaya Max (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="India",IN028:Jaya Max (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1937
+#EXTINF:-1 tvg-id="" tvg-name="IN029:Jaya (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="India",IN029:Jaya (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1936
+#EXTINF:-1 tvg-id="InTV.al" tvg-name="IN030:KTV (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="India",IN030:KTV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1935
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="IN041:Polimer News (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="India",IN041:Polimer News (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1924
+#EXTINF:-1 tvg-id="Puthiya Thalaimurai.in" tvg-name="IN044:Puthiya Thalaimurai (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN044PuthiyaThalaimuraiTamil.png" group-title="India",IN044:Puthiya Thalaimurai (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1921
+#EXTINF:-1 tvg-id="RajDigital Plus.in" tvg-name="IN045:RAJ Digital Plus (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN045RAJDigitalPlusTamil.png" group-title="India",IN045:RAJ Digital Plus (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1920
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="IN046:RAJ Musix (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN046RAJMusixTamil.png" group-title="India",IN046:RAJ Musix (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1919
+#EXTINF:-1 tvg-id="RajNewsTamil.in" tvg-name="IN047:RAJ News 24x7 (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN047RAJNews24x7Tamil.png" group-title="India",IN047:RAJ News 24x7 (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1918
+#EXTINF:-1 tvg-id="" tvg-name="IN048:RAJ (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN048RAJTamil.png" group-title="India",IN048:RAJ (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1917
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="IN052:Zee (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN052ZeeTamil.png" group-title="India",IN052:Zee (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1913
+#EXTINF:-1 tvg-id="" tvg-name="IN074:Sun (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN074SunTamil.png" group-title="India",IN074:Sun (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/1891
+#EXTINF:-1 tvg-id="" tvg-name="IN143:Angel Tv (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN143Tamil|SunTVHD.png" group-title="India",IN143:Angel Tv (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55310
+#EXTINF:-1 tvg-id="" tvg-name="IN159:Colors HD (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN159ColorsTamilHD.png" group-title="India",IN159:Colors HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55294
+#EXTINF:-1 tvg-id="" tvg-name="IN171:VIJAY HD (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="India",IN171:VIJAY HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55282
+#EXTINF:-1 tvg-id="" tvg-name="IN180:Tune6 HD (Tamil)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN180DY365.png" group-title="India",IN180:Tune6 HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/55273
+#EXTINF:-1 tvg-id="" tvg-name="IN298:IBC (Tamil)" tvg-logo="" group-title="India",IN298:IBC (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66707
+#EXTINF:-1 tvg-id="" tvg-name="IN300:NEWS18 (Tamil)" tvg-logo="" group-title="India",IN300:NEWS18 (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66708
+#EXTINF:-1 tvg-id="" tvg-name="IN301:NEWS 7 (Tamil)" tvg-logo="" group-title="India",IN301:NEWS 7 (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66709
+#EXTINF:-1 tvg-id="" tvg-name="IN302:Raj Digital Plus (Tamil)" tvg-logo="" group-title="India",IN302:Raj Digital Plus (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66710
+#EXTINF:-1 tvg-id="" tvg-name="IN303:SUN MUSIC (Tamil)" tvg-logo="" group-title="India",IN303:SUN MUSIC (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66711
+#EXTINF:-1 tvg-id="" tvg-name="IN304:7startv (Tamil)" tvg-logo="" group-title="India",IN304:7startv (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66712
+#EXTINF:-1 tvg-id="" tvg-name="IN305:Aditya TV (Tamil)" tvg-logo="" group-title="India",IN305:Aditya TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66713
+#EXTINF:-1 tvg-id="" tvg-name="IN306:DD Podhigai (Tamil)" tvg-logo="" group-title="India",IN306:DD Podhigai (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66714
+#EXTINF:-1 tvg-id="" tvg-name="IN307:EET TV (Tamil)" tvg-logo="" group-title="India",IN307:EET TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66715
+#EXTINF:-1 tvg-id="" tvg-name="IN308:Jaya Max USA (Tamil)" tvg-logo="" group-title="India",IN308:Jaya Max USA (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66716
+#EXTINF:-1 tvg-id="" tvg-name="IN310:Jaya Movies (Tamil)" tvg-logo="" group-title="India",IN310:Jaya Movies (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66717
+#EXTINF:-1 tvg-id="" tvg-name="IN311:JAYA TV US (Tamil)" tvg-logo="" group-title="India",IN311:JAYA TV US (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66718
+#EXTINF:-1 tvg-id="" tvg-name="IN312:KTV US (Tamil)" tvg-logo="" group-title="India",IN312:KTV US (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66719
+#EXTINF:-1 tvg-id="" tvg-name="IN313:KTV HD (UK) (Tamil)" tvg-logo="" group-title="India",IN313:KTV HD (UK) (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66720
+#EXTINF:-1 tvg-id="" tvg-name="IN314:madha TV (Spirtual) (Tamil)" tvg-logo="" group-title="India",IN314:madha TV (Spirtual) (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66721
+#EXTINF:-1 tvg-id="" tvg-name="IN315:madhatv HD (Tamil)" tvg-logo="" group-title="India",IN315:madhatv HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66722
+#EXTINF:-1 tvg-id="" tvg-name="IN316:Makkal TV (Tamil)" tvg-logo="" group-title="India",IN316:Makkal TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66723
+#EXTINF:-1 tvg-id="" tvg-name="IN319:STAR VIJAY UK (Tamil)" tvg-logo="" group-title="India",IN319:STAR VIJAY UK (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66724
+#EXTINF:-1 tvg-id="" tvg-name="IN321:SUN NEWS (Tamil)" tvg-logo="" group-title="India",IN321:SUN NEWS (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66725
+#EXTINF:-1 tvg-id="" tvg-name="IN322:SUN TV US (Tamil)" tvg-logo="" group-title="India",IN322:SUN TV US (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66726
+#EXTINF:-1 tvg-id="" tvg-name="IN323:Sun TV HD (Tamil)" tvg-logo="" group-title="India",IN323:Sun TV HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66727
+#EXTINF:-1 tvg-id="" tvg-name="IN324:SEITHIGAL (Tamil)" tvg-logo="" group-title="India",IN324:SEITHIGAL (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66728
+#EXTINF:-1 tvg-id="" tvg-name="IN325:3 Tamil TV ( Tamil )" tvg-logo="" group-title="India",IN325:3 Tamil TV ( Tamil )
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66729
+#EXTINF:-1 tvg-id="" tvg-name="IN326:Captain TV (Tamil)" tvg-logo="" group-title="India",IN326:Captain TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66730
+#EXTINF:-1 tvg-id="" tvg-name="IN327:DAN (Tamil)" tvg-logo="" group-title="India",IN327:DAN (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66731
+#EXTINF:-1 tvg-id="" tvg-name="IN328:Puthiya Thalaimurai (Tamil)" tvg-logo="" group-title="India",IN328:Puthiya Thalaimurai (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66732
+#EXTINF:-1 tvg-id="" tvg-name="IN329:Zee Thirai (Tamil)" tvg-logo="" group-title="India",IN329:Zee Thirai (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66733
+#EXTINF:-1 tvg-id="" tvg-name="IN330:WIN TV (Tamil)" tvg-logo="" group-title="India",IN330:WIN TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66734
+#EXTINF:-1 tvg-id="" tvg-name="IN331:POLIMER TV (Tamil)" tvg-logo="" group-title="India",IN331:POLIMER TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66735
+#EXTINF:-1 tvg-id="" tvg-name="IN332:Jaya Plus (Tamil)" tvg-logo="" group-title="India",IN332:Jaya Plus (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66736
+#EXTINF:-1 tvg-id="" tvg-name="IN334:Captain NEWS (Tamil )" tvg-logo="" group-title="India",IN334:Captain NEWS (Tamil )
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66737
+#EXTINF:-1 tvg-id="" tvg-name="IN335:Kalaignar TV (Tamil)" tvg-logo="" group-title="India",IN335:Kalaignar TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66738
+#EXTINF:-1 tvg-id="" tvg-name="IN336:Visionternational (Tamil)" tvg-logo="" group-title="India",IN336:Visionternational (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66739
+#EXTINF:-1 tvg-id="" tvg-name="IN337:Zee HD (US) (Tamil)" tvg-logo="" group-title="India",IN337:Zee HD (US) (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66740
+#EXTINF:-1 tvg-id="" tvg-name="IN338:7Startv HD (Tamil)" tvg-logo="" group-title="India",IN338:7Startv HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66741
+#EXTINF:-1 tvg-id="" tvg-name="IN339:Aastha HD (Tamil)" tvg-logo="" group-title="India",IN339:Aastha HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66742
+#EXTINF:-1 tvg-id="" tvg-name="IN340:Angel Tv HD (Europe) (Tamil)" tvg-logo="" group-title="India",IN340:Angel Tv HD (Europe) (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66743
+#EXTINF:-1 tvg-id="" tvg-name="IN341:SUN LIFE (Tamil)" tvg-logo="" group-title="India",IN341:SUN LIFE (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66744
+#EXTINF:-1 tvg-id="" tvg-name="IN342:Tamilvision (Tamil)" tvg-logo="" group-title="India",IN342:Tamilvision (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66745
+#EXTINF:-1 tvg-id="" tvg-name="IN343:Discovery Channel (Tamil)" tvg-logo="" group-title="India",IN343:Discovery Channel (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66746
+#EXTINF:-1 tvg-id="" tvg-name="IN344:ETV Bharat Keralam (Tamil)" tvg-logo="" group-title="India",IN344:ETV Bharat Keralam (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66747
+#EXTINF:-1 tvg-id="" tvg-name="IN345:History 18 (Tamil)" tvg-logo="" group-title="India",IN345:History 18 (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66748
+#EXTINF:-1 tvg-id="" tvg-name="IN346:IBC Bakthi HD (Tamil)" tvg-logo="" group-title="India",IN346:IBC Bakthi HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66749
+#EXTINF:-1 tvg-id="" tvg-name="IN347:IBC canada HD (Tamil)" tvg-logo="" group-title="India",IN347:IBC canada HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66750
+#EXTINF:-1 tvg-id="" tvg-name="IN348:IBC Comedy (Tamil)" tvg-logo="" group-title="India",IN348:IBC Comedy (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66751
+#EXTINF:-1 tvg-id="" tvg-name="IN349:IBC Music HD (Tamil)" tvg-logo="" group-title="India",IN349:IBC Music HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66752
+#EXTINF:-1 tvg-id="" tvg-name="IN350:IBC Siluvai HD (Tamil)" tvg-logo="" group-title="India",IN350:IBC Siluvai HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66753
+#EXTINF:-1 tvg-id="" tvg-name="IN351:IBC Tamil HD (Tamil)" tvg-logo="" group-title="India",IN351:IBC Tamil HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66754
+#EXTINF:-1 tvg-id="" tvg-name="IN352:Kairali News HD (Tamil)" tvg-logo="" group-title="India",IN352:Kairali News HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66755
+#EXTINF:-1 tvg-id="" tvg-name="IN353:Kalaignar TV News (Tamil)" tvg-logo="" group-title="India",IN353:Kalaignar TV News (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66756
+#EXTINF:-1 tvg-id="" tvg-name="IN354:Tunes 6 (Tamil)" tvg-logo="" group-title="India",IN354:Tunes 6 (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66757
+#EXTINF:-1 tvg-id="" tvg-name="IN355:Raj Musix (Tamil)" tvg-logo="" group-title="India",IN355:Raj Musix (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66758
+#EXTINF:-1 tvg-id="" tvg-name="IN356:Raj Digital Plus (Tamil)" tvg-logo="" group-title="India",IN356:Raj Digital Plus (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66759
+#EXTINF:-1 tvg-id="" tvg-name="IN357:Star Vijay HD (Tamil)" tvg-logo="" group-title="India",IN357:Star Vijay HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66760
+#EXTINF:-1 tvg-id="" tvg-name="IN358:Tamilvision HD (Tamil)" tvg-logo="" group-title="India",IN358:Tamilvision HD (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66761
+#EXTINF:-1 tvg-id="" tvg-name="IN359:Puthuyugam (Tamil)" tvg-logo="" group-title="India",IN359:Puthuyugam (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66762
+#EXTINF:-1 tvg-id="" tvg-name="IN360:Vendhar TV (Tamil)" tvg-logo="" group-title="India",IN360:Vendhar TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66763
+#EXTINF:-1 tvg-id="" tvg-name="IN361:Adithya TV (Tamil)" tvg-logo="" group-title="India",IN361:Adithya TV (Tamil)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66764
+#EXTINF:-1 tvg-id="" tvg-name="IN:-----|Malayalam|--------------------------------" tvg-logo="" group-title="India",IN:-----|Malayalam|--------------------------------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66765
+#EXTINF:-1 tvg-id="" tvg-name="IN362:DD Malayalam (Malayalam)" tvg-logo="" group-title="India",IN362:DD Malayalam (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66766
+#EXTINF:-1 tvg-id="" tvg-name="IN363:ACV Jukebox (Malayalam)" tvg-logo="" group-title="India",IN363:ACV Jukebox (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66767
+#EXTINF:-1 tvg-id="" tvg-name="IN364:ACV TV (Malayalam)" tvg-logo="" group-title="India",IN364:ACV TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66768
+#EXTINF:-1 tvg-id="" tvg-name="IN365:ACV Utsav Plus (Malayalam)" tvg-logo="" group-title="India",IN365:ACV Utsav Plus (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66769
+#EXTINF:-1 tvg-id="" tvg-name="IN366:ACV Utsav HD (Malayalam)" tvg-logo="" group-title="India",IN366:ACV Utsav HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66770
+#EXTINF:-1 tvg-id="" tvg-name="IN367:Asianet sd (Hotstar) (Malayalam)" tvg-logo="" group-title="India",IN367:Asianet sd (Hotstar) (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66771
+#EXTINF:-1 tvg-id="" tvg-name="IN368:Asianet Movies HD (Hotstar) (Malayalam)" tvg-logo="" group-title="India",IN368:Asianet Movies HD (Hotstar) (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66772
+#EXTINF:-1 tvg-id="" tvg-name="IN369:Asianet Plus HD (Hotstar) (Malayalam)" tvg-logo="" group-title="India",IN369:Asianet Plus HD (Hotstar) (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66773
+#EXTINF:-1 tvg-id="" tvg-name="IN370:Asianet News HD (Malayalam)" tvg-logo="" group-title="India",IN370:Asianet News HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66774
+#EXTINF:-1 tvg-id="" tvg-name="IN372:Shubhsandesh TV (Malayalam)" tvg-logo="" group-title="India",IN372:Shubhsandesh TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66775
+#EXTINF:-1 tvg-id="" tvg-name="IN373:Amrita TV (Malayalam)" tvg-logo="" group-title="India",IN373:Amrita TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66776
+#EXTINF:-1 tvg-id="" tvg-name="IN375:Garshom TV HD (Malayalam)" tvg-logo="" group-title="India",IN375:Garshom TV HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66777
+#EXTINF:-1 tvg-id="" tvg-name="IN376:Janam TV HD (Malayalam)" tvg-logo="" group-title="India",IN376:Janam TV HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66778
+#EXTINF:-1 tvg-id="" tvg-name="IN377:Flowers TV (Malayalam)" tvg-logo="" group-title="India",IN377:Flowers TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66779
+#EXTINF:-1 tvg-id="" tvg-name="IN378:Jeevan TV (Malayalam)" tvg-logo="" group-title="India",IN378:Jeevan TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66780
+#EXTINF:-1 tvg-id="" tvg-name="IN379:Kappa TV (Malayalam)" tvg-logo="" group-title="India",IN379:Kappa TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66781
+#EXTINF:-1 tvg-id="" tvg-name="IN380:Kaumudi HD (Malayalam)" tvg-logo="" group-title="India",IN380:Kaumudi HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66782
+#EXTINF:-1 tvg-id="" tvg-name="IN381:News 18 Kerala HD (Malayalam)" tvg-logo="" group-title="India",IN381:News 18 Kerala HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66783
+#EXTINF:-1 tvg-id="" tvg-name="IN382:Power Vesion HD (Malayalam)" tvg-logo="" group-title="India",IN382:Power Vesion HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66784
+#EXTINF:-1 tvg-id="" tvg-name="IN383:Reporter News (Malayalam)" tvg-logo="" group-title="India",IN383:Reporter News (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66785
+#EXTINF:-1 tvg-id="" tvg-name="IN384:Safari HD (Malayalam)" tvg-logo="" group-title="India",IN384:Safari HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66786
+#EXTINF:-1 tvg-id="" tvg-name="IN385:Goodness TV (Malayalam)" tvg-logo="" group-title="India",IN385:Goodness TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66787
+#EXTINF:-1 tvg-id="" tvg-name="IN386:Harvest TV HD (Spiritual) (Malayalam)" tvg-logo="" group-title="India",IN386:Harvest TV HD (Spiritual) (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66788
+#EXTINF:-1 tvg-id="" tvg-name="IN387:Kairali Arabia (Malayalam)" tvg-logo="" group-title="India",IN387:Kairali Arabia (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66789
+#EXTINF:-1 tvg-id="" tvg-name="IN388:Kairali HD (Malayalam)" tvg-logo="" group-title="India",IN388:Kairali HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66790
+#EXTINF:-1 tvg-id="" tvg-name="IN389:Mathrubhumi News HD (Malayalam)" tvg-logo="" group-title="India",IN389:Mathrubhumi News HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66791
+#EXTINF:-1 tvg-id="" tvg-name="IN390:Mazhavil Manorama HD (Malayalam)" tvg-logo="" group-title="India",IN390:Mazhavil Manorama HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66792
+#EXTINF:-1 tvg-id="" tvg-name="IN391:Shalom HD (Malayalam)" tvg-logo="" group-title="India",IN391:Shalom HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66793
+#EXTINF:-1 tvg-id="" tvg-name="IN392:Shekinah TV HD (Malayalam)" tvg-logo="" group-title="India",IN392:Shekinah TV HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66794
+#EXTINF:-1 tvg-id="" tvg-name="IN393:SURYA TV FHD (IND)* (Malayalam)" tvg-logo="" group-title="India",IN393:SURYA TV FHD (IND)* (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66795
+#EXTINF:-1 tvg-id="" tvg-name="IN394:SURYA TV FHD (UK)* (Malayalam)" tvg-logo="" group-title="India",IN394:SURYA TV FHD (UK)* (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66796
+#EXTINF:-1 tvg-id="" tvg-name="IN395:M4 Malayalam TV (Malayalam)" tvg-logo="" group-title="India",IN395:M4 Malayalam TV (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66797
+#EXTINF:-1 tvg-id="" tvg-name="IN396:UBL HD (Malayalam)" tvg-logo="" group-title="India",IN396:UBL HD (Malayalam)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66798
+#EXTINF:-1 tvg-id="" tvg-name="IN:-----|Telugu|--------------------------------" tvg-logo="" group-title="India",IN:-----|Telugu|--------------------------------
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66799
+#EXTINF:-1 tvg-id="" tvg-name="IN397:10TV News HD (Telugu)" tvg-logo="" group-title="India",IN397:10TV News HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66800
+#EXTINF:-1 tvg-id="" tvg-name="IN398:99TV HD (Telugu)" tvg-logo="" group-title="India",IN398:99TV HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66801
+#EXTINF:-1 tvg-id="" tvg-name="IN399:AASTHA HD (Telugu)" tvg-logo="" group-title="India",IN399:AASTHA HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66802
+#EXTINF:-1 tvg-id="" tvg-name="IN400:ABN News (Telugu)" tvg-logo="" group-title="India",IN400:ABN News (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66803
+#EXTINF:-1 tvg-id="" tvg-name="IN401:Filmnagar (Telugu)" tvg-logo="" group-title="India",IN401:Filmnagar (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66804
+#EXTINF:-1 tvg-id="" tvg-name="IN402:Bhakthi TV (Spirtual) (Telugu)" tvg-logo="" group-title="India",IN402:Bhakthi TV (Spirtual) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66805
+#EXTINF:-1 tvg-id="" tvg-name="IN403:Classics (Telugu)" tvg-logo="" group-title="India",IN403:Classics (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66806
+#EXTINF:-1 tvg-id="" tvg-name="IN404:CVR English(lk) (Telugu)" tvg-logo="" group-title="India",IN404:CVR English(lk) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66807
+#EXTINF:-1 tvg-id="" tvg-name="IN405:CVR News (Telugu)" tvg-logo="" group-title="India",IN405:CVR News (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66808
+#EXTINF:-1 tvg-id="" tvg-name="IN406:CVR OM HD(lk) (Telugu)" tvg-logo="" group-title="India",IN406:CVR OM HD(lk) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66809
+#EXTINF:-1 tvg-id="" tvg-name="IN407:Tata Sky English (Telugu)" tvg-logo="" group-title="India",IN407:Tata Sky English (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66810
+#EXTINF:-1 tvg-id="" tvg-name="IN409:GEMINI LIFE HD (UK) (Telugu)" tvg-logo="" group-title="India",IN409:GEMINI LIFE HD (UK) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66811
+#EXTINF:-1 tvg-id="" tvg-name="IN410:GEMINI MOVIES (Telugu)" tvg-logo="" group-title="India",IN410:GEMINI MOVIES (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66812
+#EXTINF:-1 tvg-id="" tvg-name="IN411:GEMINI MOVIES (UK) (Telugu)" tvg-logo="" group-title="India",IN411:GEMINI MOVIES (UK) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66813
+#EXTINF:-1 tvg-id="" tvg-name="IN413:GEMINI TV (UK) (Telugu)" tvg-logo="" group-title="India",IN413:GEMINI TV (UK) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66814
+#EXTINF:-1 tvg-id="" tvg-name="IN414:Hmtv (Telugu)" tvg-logo="" group-title="India",IN414:Hmtv (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66815
+#EXTINF:-1 tvg-id="" tvg-name="IN415:MAA HD (VIP) (Telugu)" tvg-logo="" group-title="India",IN415:MAA HD (VIP) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66816
+#EXTINF:-1 tvg-id="" tvg-name="IN416:Mahaa News (Telugu)" tvg-logo="" group-title="India",IN416:Mahaa News (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66817
+#EXTINF:-1 tvg-id="" tvg-name="IN417:Cartoon Network HD (Telugu)" tvg-logo="" group-title="India",IN417:Cartoon Network HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66818
+#EXTINF:-1 tvg-id="" tvg-name="IN418:NTV HD (Telugu)" tvg-logo="" group-title="India",IN418:NTV HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66819
+#EXTINF:-1 tvg-id="" tvg-name="IN419:Prime9 News HD (Telugu)" tvg-logo="" group-title="India",IN419:Prime9 News HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66820
+#EXTINF:-1 tvg-id="" tvg-name="IN420:Raj News HD (Telugu)" tvg-logo="" group-title="India",IN420:Raj News HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66821
+#EXTINF:-1 tvg-id="" tvg-name="IN421:Sakshi TV (News) (Telugu)" tvg-logo="" group-title="India",IN421:Sakshi TV (News) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66822
+#EXTINF:-1 tvg-id="" tvg-name="IN422:Sony Yay (Telugu)" tvg-logo="" group-title="India",IN422:Sony Yay (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66823
+#EXTINF:-1 tvg-id="" tvg-name="IN423:Raj Musix (Telugu)" tvg-logo="" group-title="India",IN423:Raj Musix (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66824
+#EXTINF:-1 tvg-id="" tvg-name="IN424:Star Maa  (Tatasky) (Telugu)" tvg-logo="" group-title="India",IN424:Star Maa  (Tatasky) (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66825
+#EXTINF:-1 tvg-id="" tvg-name="IN425:Star Maa Movies (Hotstar)(Telugu)" tvg-logo="" group-title="India",IN425:Star Maa Movies (Hotstar)(Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66826
+#EXTINF:-1 tvg-id="" tvg-name="IN426:SVBC (Telugu)" tvg-logo="" group-title="India",IN426:SVBC (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66827
+#EXTINF:-1 tvg-id="" tvg-name="IN427:SVBCTTD HD (Telugu)" tvg-logo="" group-title="India",IN427:SVBCTTD HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66828
+#EXTINF:-1 tvg-id="" tvg-name="IN428:BhAGATI TV (Telugu)" tvg-logo="" group-title="India",IN428:BhAGATI TV (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66829
+#EXTINF:-1 tvg-id="" tvg-name="IN429:Sony BBC Earth (Telugu)" tvg-logo="" group-title="India",IN429:Sony BBC Earth (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66830
+#EXTINF:-1 tvg-id="" tvg-name="IN430:TV5 NEWS (Telugu)" tvg-logo="" group-title="India",IN430:TV5 NEWS (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66831
+#EXTINF:-1 tvg-id="" tvg-name="IN431:TV9 (Telugu)" tvg-logo="" group-title="India",IN431:TV9 (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66832
+#EXTINF:-1 tvg-id="" tvg-name="IN432:TV9 NEWS HD (Telugu)" tvg-logo="" group-title="India",IN432:TV9 NEWS HD (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66833
+#EXTINF:-1 tvg-id="" tvg-name="IN433:V6 News (Telugu)" tvg-logo="" group-title="India",IN433:V6 News (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66834
+#EXTINF:-1 tvg-id="" tvg-name="IN434:Vissa TV (Telugu)" tvg-logo="" group-title="India",IN434:Vissa TV (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66835
+#EXTINF:-1 tvg-id="" tvg-name="IN435:Zee Ditto (Telugu)" tvg-logo="" group-title="India",IN435:Zee Ditto (Telugu)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/66836
+#EXTINF:-1 tvg-id="" tvg-name="###### VOD India ######" tvg-logo="" group-title="India",###### VOD India ######
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/28713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: 12-12-1950" tvg-logo="http://mu01.okcomputer.club:8880/images/8GmgujWl1zOfU6XS21TtRKMa0HM_small.jpg" group-title="India",IN: 12-12-1950
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: 15 August" tvg-logo="http://mu01.okcomputer.club:8880/images/riCV2r7lXaQUpIwIkvToxp7I1LO_small.jpg" group-title="India",IN: 15 August
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: 377 Normal" tvg-logo="http://mu01.okcomputer.club:8880/images/kOFMtkRdAQhxV4qkKvFGFmc7n9L_small.jpg" group-title="India",IN: 377 Normal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aayirathil Oruvan" tvg-logo="http://mu01.okcomputer.club:8880/images/eVp6UkQ7s7jf3kqJbpvajqCeegW_small.jpg" group-title="India",IN: Aayirathil Oruvan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aiyaary" tvg-logo="http://mu01.okcomputer.club:8880/images/1lfpxWPKRN9GOCdad5XhdxWuS3U_small.jpg" group-title="India",IN: Aiyaary
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aksar 2" tvg-logo="http://mu01.okcomputer.club:8880/images/qIC1cMFhlyHw3xKoJd2Z049iOON_small.jpg" group-title="India",IN: Aksar 2
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Annadurai" tvg-logo="http://mu01.okcomputer.club:8880/images/ci7XXDlTuSk9jqyeWuY5VVDEtgy_small.jpg" group-title="India",IN: Annadurai
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aramm" tvg-logo="http://mu01.okcomputer.club:8880/images/d0uYeUwNNg9DvFqb2JSFyhFRuaE_small.jpg" group-title="India",IN: Aramm
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ardaas" tvg-logo="http://mu01.okcomputer.club:8880/images/_small.jpg" group-title="India",IN: Ardaas
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aruvi" tvg-logo="http://mu01.okcomputer.club:8880/images/dqyDZ3B5R7OrTjioigQ7kqt20eH_small.jpg" group-title="India",IN: Aruvi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aval" tvg-logo="http://mu01.okcomputer.club:8880/images/7Xm7x3VKPsld8N3OCVu3krbPAFu_small.jpg" group-title="India",IN: Aval
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Baadshaho" tvg-logo="http://mu01.okcomputer.club:8880/images/cSeNkoe7ZC84jTa6HKdLEzUsSYW_small.jpg" group-title="India",IN: Baadshaho
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Baaghi 2" tvg-logo="http://mu01.okcomputer.club:8880/images/gwX6mKjfxBYbq46CoIpcxIAmIMx_small.jpg" group-title="India",IN: Baaghi 2
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bajrangi Bhaijaan" tvg-logo="http://mu01.okcomputer.club:8880/images/fAVCr7rfEKbQzre4ETCFXNDV6U3_small.jpg" group-title="India",IN: Bajrangi Bhaijaan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Balakrishnudu" tvg-logo="http://mu01.okcomputer.club:8880/images/yAFKLVpX6evIHKo4YzR68VjzB5P_small.jpg" group-title="India",IN: Balakrishnudu
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bareilly Ki Barfi" tvg-logo="http://mu01.okcomputer.club:8880/images/zaG3qyFycMzmeRTWWOCvtMpfBRA_small.jpg" group-title="India",IN: Bareilly Ki Barfi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhai Mera Big Brother" tvg-logo="http://mu01.okcomputer.club:8880/images/khs7fRGs6aNkSRgz0coMUX3MCeT_small.jpg" group-title="India",IN: Bhai Mera Big Brother
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bharat Ane Nenu" tvg-logo="http://mu01.okcomputer.club:8880/images/a0hFV8G0ofyPgPEjVcYrueuxFex_small.jpg" group-title="India",IN: Bharat Ane Nenu
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhoomi" tvg-logo="http://mu01.okcomputer.club:8880/images/zVh5RNjIcM3Wggp0Be3fGdLxz75_small.jpg" group-title="India",IN: Bhoomi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bogan" tvg-logo="http://mu01.okcomputer.club:8880/images/9W0XFc83y1EXDdINFj8fq4pGhsD_small.jpg" group-title="India",IN: Bogan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bombairiya" tvg-logo="http://mu01.okcomputer.club:8880/images/cWXVQMhOZpMPFsR7Ea2dGO7aEwH_small.jpg" group-title="India",IN: Bombairiya
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Brahma.com" tvg-logo="http://mu01.okcomputer.club:8880/images/_small.jpg" group-title="India",IN: Brahma.com
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cabaret" tvg-logo="http://mu01.okcomputer.club:8880/images/1RmUfX3LcS897GhUWrWp5nRADo4_small.jpg" group-title="India",IN: Cabaret
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Canada Di Flight" tvg-logo="http://mu01.okcomputer.club:8880/images/u9gFA0zStW68ZIx0bbd5KH0FabR_small.jpg" group-title="India",IN: Canada Di Flight
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chef" tvg-logo="http://mu01.okcomputer.club:8880/images/dwweMX2MqYOYGg2Z2lZ8f6uopcg_small.jpg" group-title="India",IN: Chef
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chunkzz" tvg-logo="http://mu01.okcomputer.club:8880/images/svNTQCVc7tzQrh20WJBiiOLbQEq_small.jpg" group-title="India",IN: Chunkzz
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Daak Ghar" tvg-logo="http://mu01.okcomputer.club:8880/images/_small.jpg" group-title="India",IN: Daak Ghar
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Daddy" tvg-logo="http://mu01.okcomputer.club:8880/images/zDJ4GVch7Iw2i0j84ceoElRUZUR_small.jpg" group-title="India",IN: Daddy
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dangal" tvg-logo="http://mu01.okcomputer.club:8880/images/5PDT64gtbmH10gK5AYR7LZh5PQk_small.jpg" group-title="India",IN: Dangal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Daringbaaz 3" tvg-logo="http://mu01.okcomputer.club:8880/images/jLtmYSV8ohoiS06oD6Fw9nACo6D_small.jpg" group-title="India",IN: Daringbaaz 3
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhairyam" tvg-logo="http://mu01.okcomputer.club:8880/images/2FaPivBBSY2C3qQUjfy446SdEbZ_small.jpg" group-title="India",IN: Dhairyam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dj Duvvada Jagannadham" tvg-logo="http://mu01.okcomputer.club:8880/images/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX_small.jpg" group-title="India",IN: Dj Duvvada Jagannadham
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dost Tussi Great Ho" tvg-logo="http://mu01.okcomputer.club:8880/images/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX_small.jpg" group-title="India",IN: Dost Tussi Great Ho
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Drishyam" tvg-logo="http://mu01.okcomputer.club:8880/images/7d8GLneJkF81q1POdK7VUrjWafX_small.jpg" group-title="India",IN: Drishyam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dulla Bhatti Wala" tvg-logo="http://mu01.okcomputer.club:8880/images/_small.jpg" group-title="India",IN: Dulla Bhatti Wala
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dynamite" tvg-logo="http://mu01.okcomputer.club:8880/images/s0yuDUKiAJNl5XkO9OT4aFwnA3I_small.jpg" group-title="India",IN: Dynamite
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ek Paheli Maya (Mayuri)" tvg-logo="http://mu01.okcomputer.club:8880/images/s0yuDUKiAJNl5XkO9OT4aFwnA3I_small.jpg" group-title="India",IN: Ek Paheli Maya (Mayuri)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ek Tha Tiger" tvg-logo="http://mu01.okcomputer.club:8880/images/nqI6k6oar35Ryu4p9IqUSqy8bjY_small.jpg" group-title="India",IN: Ek Tha Tiger
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: En Aaloda Seruppa Kaanom" tvg-logo="http://mu01.okcomputer.club:8880/images/7YaAWEIRZRGVPzepDIb5aCXq40X_small.jpg" group-title="India",IN: En Aaloda Seruppa Kaanom
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: English Padam" tvg-logo="http://mu01.okcomputer.club:8880/images/rS0F2EtWqEExY0G8oN7jCVtsMoz_small.jpg" group-title="India",IN: English Padam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ezra" tvg-logo="http://mu01.okcomputer.club:8880/images/4nOjXXYW67BEdSdJYMKdXySSLn7_small.jpg" group-title="India",IN: Ezra
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Firangi" tvg-logo="http://mu01.okcomputer.club:8880/images/Atgw2Ds1wcARZBXLq1Eoi3Ui70h_small.jpg" group-title="India",IN: Firangi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Firebrand" tvg-logo="http://mu01.okcomputer.club:8880/images/2jvrBEFx5O8E3NJYuuRRPnGhtEN_small.jpg" group-title="India",IN: Firebrand
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fraud Saiyaan" tvg-logo="http://mu01.okcomputer.club:8880/images/w5HQO1j9ghZZYbaXXM6k8SD5RGr_small.jpg" group-title="India",IN: Fraud Saiyaan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fukrey Returns" tvg-logo="http://mu01.okcomputer.club:8880/images/c23cJsFyIw2OE3n4GXvrlzCKCxp_small.jpg" group-title="India",IN: Fukrey Returns
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ghoda" tvg-logo="http://mu01.okcomputer.club:8880/images/wxLPTBI22yLoySyiZOKOQWCGouz_small.jpg" group-title="India",IN: Ghoda
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Golimaar 2" tvg-logo="http://mu01.okcomputer.club:8880/images/wxLPTBI22yLoySyiZOKOQWCGouz_small.jpg" group-title="India",IN: Golimaar 2
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Golmaal Again" tvg-logo="http://mu01.okcomputer.club:8880/images/kGx26PL1v658T8XbOk5MfmNpHU3_small.jpg" group-title="India",IN: Golmaal Again
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Half Girlfriend" tvg-logo="http://mu01.okcomputer.club:8880/images/jvacZc9CVkjCA25ds4UqnOWbSpV_small.jpg" group-title="India",IN: Half Girlfriend
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Haseena Parkar" tvg-logo="http://mu01.okcomputer.club:8880/images/wZRo2gg0jiUTvhY7upFmhBwthIz_small.jpg" group-title="India",IN: Haseena Parkar
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hello" tvg-logo="http://mu01.okcomputer.club:8880/images/aPZOt9BR3gnk1RyX924ySq81S4P_small.jpg" group-title="India",IN: Hello
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hichki" tvg-logo="http://mu01.okcomputer.club:8880/images/5kzB7YtvhBvkBywubJ81Qw0Lt8r_small.jpg" group-title="India",IN: Hichki
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Honey Bee 2.5" tvg-logo="http://mu01.okcomputer.club:8880/images/5kzB7YtvhBvkBywubJ81Qw0Lt8r_small.jpg" group-title="India",IN: Honey Bee 2.5
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ice Age Collision Course" tvg-logo="http://mu01.okcomputer.club:8880/images/gRi7lTBBiRBhn9aJID5MdldcJEJ_small.jpg" group-title="India",IN: Ice Age Collision Course
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Indrajith" tvg-logo="http://mu01.okcomputer.club:8880/images/mqCcMRxOtuRsALcEg7cMgyLLeN4_small.jpg" group-title="India",IN: Indrajith
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Insidious The Last Key" tvg-logo="http://mu01.okcomputer.club:8880/images/nb9fc9INMg8kQ8L7sE7XTNsZnUX_small.jpg" group-title="India",IN: Insidious The Last Key
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Inspiration" tvg-logo="http://mu01.okcomputer.club:8880/images/kltQM5bRsYqM5QqGCmqCUGtHYTE_small.jpg" group-title="India",IN: Inspiration
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ittefaq" tvg-logo="http://mu01.okcomputer.club:8880/images/riEnSoGJ1WubamfrNpj4N0wVdoW_small.jpg" group-title="India",IN: Ittefaq
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jab Harry Met Sejal" tvg-logo="http://mu01.okcomputer.club:8880/images/5h0tSW3lWCH5mXi78EfyhqUjeGO_small.jpg" group-title="India",IN: Jab Harry Met Sejal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jagga Jasoos" tvg-logo="http://mu01.okcomputer.club:8880/images/aAvF8e5w4xETbx8TUesCnVFJqSF_small.jpg" group-title="India",IN: Jagga Jasoos
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jawaan" tvg-logo="http://mu01.okcomputer.club:8880/images/yiJaVE8GH7UiWESRuN014mcxQjE_small.jpg" group-title="India",IN: Jawaan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaafi Filmy" tvg-logo="http://mu01.okcomputer.club:8880/images/yiJaVE8GH7UiWESRuN014mcxQjE_small.jpg" group-title="India",IN: Kaafi Filmy
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaalakaandi" tvg-logo="http://mu01.okcomputer.club:8880/images/osCsDcfTUVcecKwAoQWPYVLSLqv_small.jpg" group-title="India",IN: Kaalakaandi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaali" tvg-logo="http://mu01.okcomputer.club:8880/images/gZvbj1ZeUNi4i96HzSseyWRFWUs_small.jpg" group-title="India",IN: Kaali
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kerry on Kutton" tvg-logo="http://mu01.okcomputer.club:8880/images/7hEp8nZxLPM24RhF8U52ckDHM0U_small.jpg" group-title="India",IN: Kerry on Kutton
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Khaidi No150" tvg-logo="http://mu01.okcomputer.club:8880/images/7hEp8nZxLPM24RhF8U52ckDHM0U_small.jpg" group-title="India",IN: Khaidi No150
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Khamiyaza" tvg-logo="http://mu01.okcomputer.club:8880/images/2mjpDoz8mmJ4qcCPXa4P902wDoq_small.jpg" group-title="India",IN: Khamiyaza
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ko 2" tvg-logo="http://mu01.okcomputer.club:8880/images/bBkEgslOY5Sn2AeT79iZSq1K1mJ_small.jpg" group-title="India",IN: Ko 2
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kodiveeran" tvg-logo="http://mu01.okcomputer.club:8880/images/mFJSlO0aVP9trIHlYy5boybv3Rc_small.jpg" group-title="India",IN: Kodiveeran
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Laavaan Phere" tvg-logo="http://mu01.okcomputer.club:8880/images/zVAWGm77s06fxAGnvCSjgKhqztK_small.jpg" group-title="India",IN: Laavaan Phere
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ladies First" tvg-logo="http://mu01.okcomputer.club:8880/images/zRJdn3SG99riTXzd9QSNxQSt5s6_small.jpg" group-title="India",IN: Ladies First
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Legend of The Naga Pearls" tvg-logo="http://mu01.okcomputer.club:8880/images/xX7Plx8yT2hL7jjvQGUYiBfUAww_small.jpg" group-title="India",IN: Legend of The Naga Pearls
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maayavan" tvg-logo="http://mu01.okcomputer.club:8880/images/pKYXWp0rERMiBPivLJDiUkBTGID_small.jpg" group-title="India",IN: Maayavan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manikarnika The Queen of Jhansi" tvg-logo="http://mu01.okcomputer.club:8880/images/kbTzlKKnZHZ8RYulknO4xqQOJ24_small.jpg" group-title="India",IN: Manikarnika The Queen of Jhansi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Matchbox" tvg-logo="http://mu01.okcomputer.club:8880/images/SinXDdHN9BeXzjjyBqVc19AecQ_small.jpg" group-title="India",IN: Matchbox
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mersal" tvg-logo="http://mu01.okcomputer.club:8880/images/65Q1wpRPZ5E3UVUv2V5JBbJQCcj_small.jpg" group-title="India",IN: Mersal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Middle Class Abbayi" tvg-logo="http://mu01.okcomputer.club:8880/images/oLik4b7KCP1NcKEOlbnSBfd4VfW_small.jpg" group-title="India",IN: Middle Class Abbayi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mirror Game" tvg-logo="http://mu01.okcomputer.club:8880/images/tfq9N7lqWWXqK6U9h76ogf3Gaq9_small.jpg" group-title="India",IN: Mirror Game
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mirza Juuliet" tvg-logo="http://mu01.okcomputer.club:8880/images/clbObnVTVZnaji1EZHG6Yep3lxr_small.jpg" group-title="India",IN: Mirza Juuliet
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mom" tvg-logo="http://mu01.okcomputer.club:8880/images/x5X1X20BsyQgMHymQtLkfCfqMSU_small.jpg" group-title="India",IN: Mom
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Monsoon Shootout" tvg-logo="http://mu01.okcomputer.club:8880/images/gzBdH7LawD5ma2IPuGJ2M9zd1Ic_small.jpg" group-title="India",IN: Monsoon Shootout
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mubarakan" tvg-logo="http://mu01.okcomputer.club:8880/images/cSqLPtE4fkn2wrpxlw5xXraHDNH_small.jpg" group-title="India",IN: Mubarakan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mukhtiar Chadha" tvg-logo="http://mu01.okcomputer.club:8880/images/fppJ1vhGWRTpW6XjeAu7tjOZZ55_small.jpg" group-title="India",IN: Mukhtiar Chadha
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Munna Michael" tvg-logo="http://mu01.okcomputer.club:8880/images/p1tdHXmGGLc8o8kTImZi5iPXcu3_small.jpg" group-title="India",IN: Munna Michael
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: My Father Iqbal" tvg-logo="http://mu01.okcomputer.club:8880/images/my9myOkG9IgyL3NZawjigGQKgxF_small.jpg" group-title="India",IN: My Father Iqbal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Newton" tvg-logo="http://mu01.okcomputer.club:8880/images/yoDlDqwp83p8mc0sylVPlbKnVDy_small.jpg" group-title="India",IN: Newton
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nikka Zaildar" tvg-logo="http://mu01.okcomputer.club:8880/images/z8CROq3TvM9gmY8MpxQDH3lWgkd_small.jpg" group-title="India",IN: Nikka Zaildar
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: October" tvg-logo="http://mu01.okcomputer.club:8880/images/nHUBPUwXkHinq2rIXnnCHsPylD1_small.jpg" group-title="India",IN: October
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Padmaavat" tvg-logo="http://mu01.okcomputer.club:8880/images/fRe1bvYOZ3qYlhgQzbBKLSKLRhX_small.jpg" group-title="India",IN: Padmaavat
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Padman" tvg-logo="http://mu01.okcomputer.club:8880/images/kHyoFs6BIJJwCaFlWu6P5Bnpa70_small.jpg" group-title="India",IN: Padman
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Palli Paruvathile" tvg-logo="http://mu01.okcomputer.club:8880/images/udzDC53hSlfXijBL2Hee2gikxeD_small.jpg" group-title="India",IN: Palli Paruvathile
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Papanasam" tvg-logo="http://mu01.okcomputer.club:8880/images/3jAtqBrfY7mPuvhqTan3H0B0JAz_small.jpg" group-title="India",IN: Papanasam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pari" tvg-logo="http://mu01.okcomputer.club:8880/images/wVo9fVQsH5TnWUTfNVTFR5JpZbb_small.jpg" group-title="India",IN: Pari
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Patel Ki Punjabi Shaadi" tvg-logo="http://mu01.okcomputer.club:8880/images/qkJwhSrSyLWFlViZQp5dJdssyHq_small.jpg" group-title="India",IN: Patel Ki Punjabi Shaadi
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Phullu" tvg-logo="http://mu01.okcomputer.club:8880/images/bW0IAL2W7QyU2D6AgCpDSj2r42s_small.jpg" group-title="India",IN: Phullu
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pokkiri Simon" tvg-logo="http://mu01.okcomputer.club:8880/images/yhEV5OAGpSyDYlr1V10VRo1kcz7_small.jpg" group-title="India",IN: Pokkiri Simon
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Policewale Ki Jung" tvg-logo="http://mu01.okcomputer.club:8880/images/yhEV5OAGpSyDYlr1V10VRo1kcz7_small.jpg" group-title="India",IN: Policewale Ki Jung
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Project Z" tvg-logo="http://mu01.okcomputer.club:8880/images/4Q7GIOvM1q5f6JbP6yLjbToak7M_small.jpg" group-title="India",IN: Project Z
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Qarib Qarib Singlle" tvg-logo="http://mu01.okcomputer.club:8880/images/yKEKZ0uTpKm743xsPOuhrfTBLL2_small.jpg" group-title="India",IN: Qarib Qarib Singlle
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raajakumara" tvg-logo="http://mu01.okcomputer.club:8880/images/lbpETE00BtXQ3LVoYlamrfsTEnF_small.jpg" group-title="India",IN: Raajakumara
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rabb Da Radio" tvg-logo="http://mu01.okcomputer.club:8880/images/AbTxYS1cU3IYjIWbJ3YcWRwX8jt_small.jpg" group-title="India",IN: Rabb Da Radio
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raees" tvg-logo="http://mu01.okcomputer.club:8880/images/zFYFUfnoXWxeA3n7v4acEqgk2iE_small.jpg" group-title="India",IN: Raees
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raid" tvg-logo="http://mu01.okcomputer.club:8880/images/qx3m9mRUmDZUVQeAe7CAzFX7xCB_small.jpg" group-title="India",IN: Raid
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Richie" tvg-logo="http://mu01.okcomputer.club:8880/images/hbNmaqJcjg4ChZ5vvfQpNzizoiR_small.jpg" group-title="India",IN: Richie
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rings" tvg-logo="http://mu01.okcomputer.club:8880/images/bbxtz5V0vvnTDA2qWbiiRC77Ok9_small.jpg" group-title="India",IN: Rings
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rubaru Roshni" tvg-logo="http://mu01.okcomputer.club:8880/images/9skq1v5Uj1fQKCqyrADG55MEuQP_small.jpg" group-title="India",IN: Rubaru Roshni
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rudra Tandava" tvg-logo="http://mu01.okcomputer.club:8880/images/cfolFtWDJzQUH2QGVpkVaSYmw8n_small.jpg" group-title="India",IN: Rudra Tandava
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Saat Uchakkey" tvg-logo="http://mu01.okcomputer.club:8880/images/jtJn34WPTFqanSRcnTCGv3i5xlk_small.jpg" group-title="India",IN: Saat Uchakkey
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sakka Podu Podu Raja" tvg-logo="http://mu01.okcomputer.club:8880/images/hIbYaQMFQYjLwVwXKxUEhsOqmJj_small.jpg" group-title="India",IN: Sakka Podu Podu Raja
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sathya" tvg-logo="http://mu01.okcomputer.club:8880/images/bv7gs8t3NoZYdGOBuseeNJYUSoj_small.jpg" group-title="India",IN: Sathya
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Secret Superstar" tvg-logo="http://mu01.okcomputer.club:8880/images/fkTeziNtc0uwE899uI1hlMOEdZL_small.jpg" group-title="India",IN: Secret Superstar
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Selfie Raja" tvg-logo="http://mu01.okcomputer.club:8880/images/vAmQWDiN9tL67JOZWNp3qqHmfjB_small.jpg" group-title="India",IN: Selfie Raja
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shaadi Mein Zaroor Aana" tvg-logo="http://mu01.okcomputer.club:8880/images/aMIVJ6Djbmsba1ybQTbNpgIVEF4_small.jpg" group-title="India",IN: Shaadi Mein Zaroor Aana
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shamantakamani" tvg-logo="http://mu01.okcomputer.club:8880/images/dmR73AmgGXljBuB45p3OgyBO6F6_small.jpg" group-title="India",IN: Shamantakamani
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shivalinga" tvg-logo="http://mu01.okcomputer.club:8880/images/iFlF5HzHdLJpudDKEPMHZY6Pz2e_small.jpg" group-title="India",IN: Shivalinga
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shubh Mangal Saavdhan" tvg-logo="http://mu01.okcomputer.club:8880/images/2vqW0VNvaQYSarPQtqHTRkOKQq8_small.jpg" group-title="India",IN: Shubh Mangal Saavdhan
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Simmba" tvg-logo="http://mu01.okcomputer.club:8880/images/p8GJqm8fqU0LxWVBuVlntbh6WPV_small.jpg" group-title="India",IN: Simmba
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Simran" tvg-logo="http://mu01.okcomputer.club:8880/images/wc28w6EW198EB5NHKmmfDpiOkqf_small.jpg" group-title="India",IN: Simran
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sketch" tvg-logo="http://mu01.okcomputer.club:8880/images/meJjODI5tTJAvyxhmnDyW8qLPRj_small.jpg" group-title="India",IN: Sketch
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Soni" tvg-logo="http://mu01.okcomputer.club:8880/images/f3bbSyGk3V6mbJLF2nFTMOdpa4Z_small.jpg" group-title="India",IN: Soni
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sonu Ke Titu Ki Sweety" tvg-logo="http://mu01.okcomputer.club:8880/images/1nsVHEVKOag8syzGtqnlYlbMQdh_small.jpg" group-title="India",IN: Sonu Ke Titu Ki Sweety
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Speedunnodu" tvg-logo="http://mu01.okcomputer.club:8880/images/7GshLtpEKtT99kaNFMtfqVUhFjD_small.jpg" group-title="India",IN: Speedunnodu
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Spyder" tvg-logo="http://mu01.okcomputer.club:8880/images/q2Zi6JTS3K9V0kQz3HB9LPEHF16_small.jpg" group-title="India",IN: Spyder
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sukumarudu" tvg-logo="http://mu01.okcomputer.club:8880/images/4x0pb2e7q5fwXCmKvCTBKQZDLtx_small.jpg" group-title="India",IN: Sukumarudu
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tera Intezaar" tvg-logo="http://mu01.okcomputer.club:8880/images/4Vpyxye05G0r8Wvy0ZDY7jQMQra_small.jpg" group-title="India",IN: Tera Intezaar
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: The Crew" tvg-logo="http://mu01.okcomputer.club:8880/images/jiQXfi9Ig1fzrWLjLfEwodwaNZj_small.jpg" group-title="India",IN: The Crew
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: The Great Father" tvg-logo="http://mu01.okcomputer.club:8880/images/l9UroYNeIfNFdW1apIwOw4jYEUX_small.jpg" group-title="India",IN: The Great Father
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: The House Next Door" tvg-logo="http://mu01.okcomputer.club:8880/images/oq1qOjcPKcbAK7SGb4mOxvdEw2r_small.jpg" group-title="India",IN: The House Next Door
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: The Promise" tvg-logo="http://mu01.okcomputer.club:8880/images/iDWer2VFikupdqDc7d5sxCWZ3gW_small.jpg" group-title="India",IN: The Promise
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Theeran Adhigaaram Ondru" tvg-logo="http://mu01.okcomputer.club:8880/images/ssYIBfoEj3eX46ARQNaJZP8qpxL_small.jpg" group-title="India",IN: Theeran Adhigaaram Ondru
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Thiruttu Payale 2" tvg-logo="http://mu01.okcomputer.club:8880/images/snwOxyhly7D6MaYcRRcINeAYPIY_small.jpg" group-title="India",IN: Thiruttu Payale 2
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tiger" tvg-logo="http://mu01.okcomputer.club:8880/images/cLa8lCiZyepoRPqAjnOhOvLPuyN_small.jpg" group-title="India",IN: Tiger
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tiger Zinda Hai" tvg-logo="http://mu01.okcomputer.club:8880/images/l9CoDQIJPA81rwEHyvn3FZ01Rjj_small.jpg" group-title="India",IN: Tiger Zinda Hai
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Toilet Ek Prem Katha" tvg-logo="http://mu01.okcomputer.club:8880/images/8YUBka56t4HcHLVMGnGA1WizpMV_small.jpg" group-title="India",IN: Toilet Ek Prem Katha
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Total Dhamaal" tvg-logo="http://mu01.okcomputer.club:8880/images/tegQNllG9HfRWexDIkK8wMwC6ce_small.jpg" group-title="India",IN: Total Dhamaal
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tubelight" tvg-logo="http://mu01.okcomputer.club:8880/images/hy7Ka19Vx2TwXA6OWZSe4XuMDlK_small.jpg" group-title="India",IN: Tubelight
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tutak Tutak Tutiya" tvg-logo="http://mu01.okcomputer.club:8880/images/apJrDHDKbWGC1Ur4HkSobCoQyDL_small.jpg" group-title="India",IN: Tutak Tutak Tutiya
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Uruthikol" tvg-logo="http://mu01.okcomputer.club:8880/images/clDNjWJ6luqDBYsY4o82XfVhjr0_small.jpg" group-title="India",IN: Uruthikol
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Velaikkaran" tvg-logo="http://mu01.okcomputer.club:8880/images/2G17C0aDyKT98s4KZZCvyJ7w3cZ_small.jpg" group-title="India",IN: Velaikkaran
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Viceroys House" tvg-logo="http://mu01.okcomputer.club:8880/images/jDZLd4fgnpmtvNdGDE2c0asfkO9_small.jpg" group-title="India",IN: Viceroys House
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vikram Vedha" tvg-logo="http://mu01.okcomputer.club:8880/images/ob9YxdzRu5lfKgz0PNrlL45dorf_small.jpg" group-title="India",IN: Vikram Vedha
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Villain" tvg-logo="http://mu01.okcomputer.club:8880/images/cKkl7CS5cQ0BbAqLTUFZiMTF5RF_small.jpg" group-title="India",IN: Villain
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vimaanam" tvg-logo="http://mu01.okcomputer.club:8880/images/fBRhsW7HbPUTFQA3wkZeNNLJips_small.jpg" group-title="India",IN: Vimaanam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vivegam The Real Hero" tvg-logo="http://mu01.okcomputer.club:8880/images/fBRhsW7HbPUTFQA3wkZeNNLJips_small.jpg" group-title="India",IN: Vivegam The Real Hero
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Waiting" tvg-logo="http://mu01.okcomputer.club:8880/images/3cyqShU9PGMtTpQgnV7Um3nEOmk_small.jpg" group-title="India",IN: Waiting
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/43235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Article 15 (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/4fa80ea05dc3147eb322bf8f5dfbc3e9.jpg" group-title="India",Article 15 (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 3 (2020)" tvg-logo="http://mu01.okcomputer.club:8880/images/055cd7cc258ac50c9b23ca9c7e92239e.jpg" group-title="India",Baaghi 3 (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Badla (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/1ad3854a7c9bad81bc1696e12e1b2bc1.jpg" group-title="India",Badla (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Badnaam Gali (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/1ee6209c269ec2bf2d60e82a599e9e91.jpg" group-title="India",Badnaam Gali (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batla House (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/aa41ba28dba3cdbfd9b7eb12babda281.jpg" group-title="India",Batla House (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battalion 609 (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/c95e65f10301d566187cc5319a426ab3.jpg" group-title="India",Battalion 609 (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bharat (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/ba84a6692505d2923fdd7cab3b6df1f3.jpg" group-title="India",Bharat (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chhichhore (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/f9a86bde803ed6cf2fc03441ed66f18d.jpg" group-title="India",Chhichhore (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicken Curry Law (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/d7791c4e8046922c7ef8b5e41d12cfd0.jpg" group-title="India",Chicken Curry Law (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daaka.Punjabi.1GB.X264.AC-3." tvg-logo="http://mu01.okcomputer.club:8880/images/d7791c4e8046922c7ef8b5e41d12cfd0.jpg" group-title="India",Daaka.Punjabi.1GB.X264.AC-3.
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darbar (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Darbar (1958)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhwaja_2019_Hindi_Dubbed_South" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Dhwaja_2019_Hindi_Dubbed_South
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Dia
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dream Girl (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/64e93cb6f13b203c931443381fdf3800.jpg" group-title="India",Dream Girl (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drive (2011)" tvg-logo="http://mu01.okcomputer.club:8880/images/d3f187fb99e68df0962aae420b2a049f.jpg" group-title="India",Drive (2011)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="English Medium (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",English Medium (1999)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gone.Kesh.Hindi.1080p.WEB-DL.x264.AAC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Gone.Kesh.Hindi.1080p.WEB-DL.x264.AAC
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gumnaami.Bengali.1080p.WEB-DL.x264.AAC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Gumnaami.Bengali.1080p.WEB-DL.x264.AAC
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacked (2020)" tvg-logo="http://mu01.okcomputer.club:8880/images/431d179921ee586d406ad40f7e55245b.jpg" group-title="India",Hacked (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 4 (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/dad365d6e6ebaa6601db032adedd7f88.jpg" group-title="India",Housefull 4 (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hume.Tumse.Py.r.Kitna" tvg-logo="http://mu01.okcomputer.club:8880/images/dad365d6e6ebaa6601db032adedd7f88.jpg" group-title="India",Hume.Tumse.Py.r.Kitna
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jabariya Jodi (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/085e2dad3819460dc914ae8d48af420d.jpg" group-title="India",Jabariya Jodi (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jhalki (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/5ff0262df26bb0a7bf4faea40c48ef9b.jpg" group-title="India",Jhalki (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jhootha Kahin Ka (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/d46104d22b3b8e53a3d2868b3e4a2ba1.jpg" group-title="India",Jhootha Kahin Ka (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/ae2917abf15b37edc526f8bdefbed9cb.jpg" group-title="India",Judgementall Hai Kya (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Junglee (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/6db700b3e583225e485850c7a2ae7a5e.jpg" group-title="India",Junglee (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kesari (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/2e86c9595e9b6473e697cfd93ce75ae0.jpg" group-title="India",Kesari (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khandani.Shafakhana" tvg-logo="http://mu01.okcomputer.club:8880/images/2e86c9595e9b6473e697cfd93ce75ae0.jpg" group-title="India",Khandani.Shafakhana
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laal Kaptaan (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/ba8518513e20ab0c0af0de46cf420c21.jpg" group-title="India",Laal Kaptaan (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Made in China (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/fffb953b17a53e88937be8775c6a783a.jpg" group-title="India",Made in China (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mal.l" tvg-logo="http://mu01.okcomputer.club:8880/images/fffb953b17a53e88937be8775c6a783a.jpg" group-title="India",Mal.l
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marjaavaan (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/c038d2af11fdd34855b16f08a23025d3.jpg" group-title="India",Marjaavaan (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mehandi.Circus.Tamil.Untouched.WEB.DL.1080p.AVC.AAC" tvg-logo="http://mu01.okcomputer.club:8880/images/c038d2af11fdd34855b16f08a23025d3.jpg" group-title="India",Mehandi.Circus.Tamil.Untouched.WEB.DL.1080p.AVC.AAC
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission Mangal (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/c9ed325a6c17b2e2d2314df94fcb65e8.jpg" group-title="India",Mission Mangal (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/7502915e7e7a09e5d31e116b41bd9ae5.jpg" group-title="India",Pal Pal Dil Ke Paas (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pati Patni Aur Woh (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/3ee0b2fce64cad1ce252b60be7553ba2.jpg" group-title="India",Pati Patni Aur Woh (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prasstahnam" tvg-logo="http://mu01.okcomputer.club:8880/images/3ee0b2fce64cad1ce252b60be7553ba2.jpg" group-title="India",Prasstahnam
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saand Ki Aankh (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/88eac09d2f3756981347f873a396f4f0.jpg" group-title="India",Saand Ki Aankh (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satellite Shankar (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/b01b4d6dad903d1bc915ca6e6c93de32.jpg" group-title="India",Satellite Shankar (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satyameva Jayate (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/9887d6f8aec8e7edd83a33e98c21251f.jpg" group-title="India",Satyameva Jayate (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section 375 (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/fbb28ebaae3f8cc1919280f4f84865a2.jpg" group-title="India",Section 375 (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sharmaji.k.lag.gaye" tvg-logo="http://mu01.okcomputer.club:8880/images/fbb28ebaae3f8cc1919280f4f84865a2.jpg" group-title="India",Sharmaji.k.lag.gaye
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan (2020)" tvg-logo="http://mu01.okcomputer.club:8880/images/f4f667d2cc76971db8b50f9f5fb1f03b.jpg" group-title="India",Shubh Mangal Zyada Saavdhan (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Special.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC" tvg-logo="http://mu01.okcomputer.club:8880/images/f4f667d2cc76971db8b50f9f5fb1f03b.jpg" group-title="India",Special.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan II (2005)" tvg-logo="http://mu01.okcomputer.club:8880/images/8a9d46a3158210ed58818ba84bbe98d9.jpg" group-title="India",Tarzan II (2005)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pool (2018)" tvg-logo="http://mu01.okcomputer.club:8880/images/c1c1dfc54460b359c8d7e2a34b7a5b9b.jpg" group-title="India",The Pool (2018)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65490.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Sky Is Pink (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/7175bcae9a79cad7906130c9775f2a91.jpg" group-title="India",The Sky Is Pink (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/891f7be6b9d1598986368ca360950169.jpg" group-title="India",The Zoya Factor (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Total Dhamaal (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/09d6a243b1f188b15f97d930b0e89f2d.jpg" group-title="India",Total Dhamaal (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ujda Chaman (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/57917dc150def830166bc789e3b33bb5.jpg" group-title="India",Ujda Chaman (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vajra.Kavachadhara.Govinda.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC" tvg-logo="http://mu01.okcomputer.club:8880/images/57917dc150def830166bc789e3b33bb5.jpg" group-title="India",Vajra.Kavachadhara.Govinda.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/efa23904d7bbedba265ad73b852807a8.jpg" group-title="India",War (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Why Cheat India (2019)" tvg-logo="http://mu01.okcomputer.club:8880/images/e5ad46635666972d0ce0a525fd646ac8.jpg" group-title="India",Why Cheat India (2019)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/65497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andhaghaaram (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sBXVEROEXoRaNEU8TYx26JZyeG.jpg" group-title="India",Andhaghaaram (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asura Guru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sBXVEROEXoRaNEU8TYx26JZyeG.jpg" group-title="India",Asura Guru
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhoomi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nyzGexU2ftCySiwRKqNIJ3CdIJ.jpg" group-title="India",Bhoomi (2021)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dagaalty (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FGBBT761M6bTu1rm5lb5ZmCybt.jpg" group-title="India",Dagaalty (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kannum Kannum Kollaiyadithaal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i31lh7FJkzElUdsLSnE9gVUXl5H.jpg" group-title="India",Kannum Kannum Kollaiyadithaal (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Master 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i31lh7FJkzElUdsLSnE9gVUXl5H.jpg" group-title="India",Master 2021
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandela 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i31lh7FJkzElUdsLSnE9gVUXl5H.jpg" group-title="India",Mandela 2021
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mookuthi Amman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8M7Z5cpmb0HJg4b4IGKBOU3JZV.jpg" group-title="India",Mookuthi Amman (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naanga Romba Busy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLVbEwG5jhJCQjbD6rwQQUpjvTx.jpg" group-title="India",Naanga Romba Busy (2020)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penguin Bloom 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l6k0Z9tYddXW9327V2jZrfWG00.jpg" group-title="India",Penguin Bloom 2020
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teddy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbMrlaEgYFcWY1a3Cq4xLYPSIv7.jpg" group-title="India",Teddy (2021)
+http://zyx01.oknirvana.club:8880/movie/testzyx070/123456789/76153.mp4
